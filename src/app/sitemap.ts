@@ -4,6 +4,8 @@ import { siteUrl } from "@/content/profile";
 import { locales } from "@/lib/i18n/config";
 import { localeUrl } from "@/lib/i18n/routing";
 
+export const dynamic = "force-static";
+
 const PATHS = ["/", "/cv"] as const;
 
 export default function sitemap(): MetadataRoute.Sitemap {
