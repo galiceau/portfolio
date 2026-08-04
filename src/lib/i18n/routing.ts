@@ -2,9 +2,6 @@ import { defaultLocale, locales, type Locale } from "./config";
 
 export function localePath(locale: Locale, path = "/"): string {
   const clean = path === "/" ? "" : path.startsWith("/") ? path : `/${path}`;
-  if (locale === defaultLocale) {
-    return clean === "" ? "/" : clean;
-  }
   return `/${locale}${clean}`;
 }
 
