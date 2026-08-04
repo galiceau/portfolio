@@ -26,7 +26,7 @@ type GitHubRepo = {
   archived: boolean;
 };
 
-const HIDDEN_REPOS = new Set(["galiceau.github.io", "galiceau", "joce-cloud-next"]);
+const HIDDEN_REPOS = new Set(["galiceau.github.io", "galiceau", "joce-cloud-next", "portfolio"]);
 
 export async function getRepositories(limit = 6): Promise<Repository[]> {
   const token = process.env.GITHUB_TOKEN;
