@@ -1,0 +1,126 @@
+import type { Localized } from "@/lib/i18n/config";
+
+export type SkillGroup = {
+  id: string;
+  title: Localized;
+  items: string[];
+};
+
+export const skillGroups: SkillGroup[] = [
+  {
+    id: "cloud",
+    title: { fr: "Cloud Platforms", en: "Cloud Platforms" },
+    items: [
+      "AWS EC2",
+      "ECS",
+      "EKS",
+      "RDS",
+      "S3",
+      "IAM",
+      "KMS",
+      "Lambda",
+      "API Gateway",
+      "CloudFront",
+      "WAF",
+      "ALB",
+      "Route53",
+      "EventBridge",
+      "Azure",
+      "GCP",
+    ],
+  },
+  {
+    id: "devops",
+    title: { fr: "Infrastructure & DevOps", en: "Infrastructure & DevOps" },
+    items: [
+      "Terraform",
+      "Terraform Enterprise",
+      "Vault Enterprise",
+      "GitLab",
+      "Azure DevOps",
+      "Jenkins",
+      "Kubernetes",
+      "Docker",
+      "Git",
+    ],
+  },
+  {
+    id: "security",
+    title: { fr: "Sécurité & Compliance", en: "Security & Compliance" },
+    items: [
+      "IAM",
+      "KMS BYOK",
+      "Private CA",
+      "WAF",
+      "CloudFront",
+      "Cognito",
+      "Keycloak",
+      "SAML/OIDC",
+      "SSO",
+      "Siteminder",
+      "Kerberos",
+      "LDAP",
+      "OpenLDAP",
+    ],
+  },
+  {
+    id: "finops",
+    title: { fr: "FinOps & Architecture", en: "FinOps & Architecture" },
+    items: [
+      "AWS FinOps",
+      "Cost Optimization",
+      "High Availability",
+      "Disaster Recovery",
+      "Landing Zone Design",
+      "Transit Gateway",
+      "Direct Connect",
+      "Site-to-Site VPN",
+      "TOGAF",
+    ],
+  },
+  {
+    id: "ai",
+    title: { fr: "IA & Data", en: "AI & Data" },
+    items: [
+      "Amazon Bedrock",
+      "PostgreSQL pgvector",
+      "Python (FastAPI, asyncio)",
+      "LLM Pipelines",
+      "RAG Systems",
+      "Hypothesis",
+    ],
+  },
+  {
+    id: "observability",
+    title: { fr: "Monitoring & Observabilité", en: "Monitoring & Observability" },
+    items: [
+      "CloudWatch",
+      "Splunk",
+      "Grafana",
+      "Prometheus",
+      "InfluxDB",
+      "Dynatrace",
+      "Centreon",
+      "NAGIOS",
+      "Graylog",
+    ],
+  },
+  {
+    id: "legacy",
+    title: { fr: "Legacy & Middleware", en: "Legacy & Middleware" },
+    items: [
+      "J2EE 1.4-5",
+      ".NET",
+      "Websphere 5-6",
+      "Tomcat",
+      "Apache",
+      "Struts",
+      "Spring",
+      "Hibernate",
+      "Active Directory",
+      "Alfresco",
+      "Windchill",
+      "Foundry",
+    ],
+  },
+];

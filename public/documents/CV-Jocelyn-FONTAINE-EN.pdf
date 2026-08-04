@@ -1,0 +1,2911 @@
+%PDF-1.3
+%∫ﬂ¨‡
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 5082
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 24 Tf
+27.5999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 785.1970866141732586 Td
+(Jocelyn FONTAINE) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 757.9844881889763428 Td
+(Cloud & AI Architect) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 739.8427559055118081 Td
+(+33 6 11 80 28 33) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 728.5041732283464171 Td
+(jocelyn.fontaine@galiceau.fr) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 717.1655905511811397 Td
+(Gaillac-Toulza \(31550\), France) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 705.8270078740157487 Td
+(16 years of experience) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 680.3151968503937042 Td
+(About) Tj
+ET
+0.8503937007874016 w
+0. G
+56.6929133858267775 670.1104724409448181 m
+538.5870866141731312 670.1104724409448181 l
+S
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+56.6929133858267775 650.2679527559055259 Td
+(Cloud & AI Architect with 16 years of experience designing AWS architectures, secure AI) Tj
+T* (integration, and IT modernization. Specialized in AWS Landing Zones, security architecture,) Tj
+T* (FinOps, and infrastructure-as-code. Delivers autonomous AI systems \(secure RAG, multi-platform) Tj
+T* (agents\), national cloud migrations, and resilient solutions for regulated sectors. AWS Certified) Tj
+T* (Solutions Architect, TOGAF Foundation certified.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 565.2285826771653774 Td
+(Skills Areas) Tj
+ET
+0.8503937007874016 w
+0. G
+56.6929133858267775 555.0238582677164914 m
+538.5870866141731312 555.0238582677164914 l
+S
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 535.1813385826771992 Td
+(AWS Architecture & Cloud Security) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 513.0711023622047833 Td
+(Design of critical AWS architectures: Landing Zones, identity management, transit gateway, multi-layer) Tj
+T* (security. Cloud security mastery \(IAM least privilege, KMS BYOK, WAF, Cloudfront, Private CA,) Tj
+T* (Keycloak/SAML/OIDC SSO\). Risk assessment and remediation for complex platforms. Design of resilient) Tj
+T* (solutions with high availability and disaster recovery. Landing Zone governance for governments and major) Tj
+T* (industrial groups \(Solvay, Monaco Government, Air France-KLM\).) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 442.2049606299212314 Td
+(Autonomous AI Systems & Secure RAG) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 420.0947244094487019 Td
+(Production-grade RAG architecture design: end-to-end \(ingestion, retrieval, generation, audit\), vector search) Tj
+T* (with document-level access control, LLM pipelines with token control and retry strategies. Autonomous agent) Tj
+T* (systems with hybrid decision-making \(deterministic veto + LLM scoring\) and human-in-the-loop feedback) Tj
+T* (loops. RAG-based knowledge systems for constraint enforcement \(tone, style\). Complete audit trails and) Tj
+T* (traceability implementation. Property-based testing for system invariant validation. Stack: Python FastAPI,) Tj
+T* (Amazon Bedrock, PostgreSQL pgvector, AWS infrastructure.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 337.8899999999999295 Td
+(FinOps & Infrastructure-as-Code) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 315.7797637795274568 Td
+(AWS cost optimization \(Saving Plans, BYOL, data consumption, FinOps architecture\). Infrastructure-as-code) Tj
+T* (design and implementation with Terraform Enterprise and Vault Enterprise. Multi-site national/European) Tj
+T* (infrastructure orchestration and automated deployment. AWS native CI/CD pipelines \(CodeBuild,) Tj
+T* (CodePipeline, EventBridge\). Observability tooling configuration \(CloudWatch, Grafana, Prometheus\).) Tj
+T* (Complex application migrations \(lift-and-shift, refactoring\). Continuous platform support and 24x7) Tj
+T* (improvement.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 233.5750393700785708 Td
+(Technical skills) Tj
+ET
+0.8503937007874016 w
+0. G
+56.6929133858267775 223.37031496062977 m
+538.5870866141731312 223.37031496062977 l
+S
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 203.5277952755903925 Td
+(Cloud Platforms) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 181.4175590551179766 Td
+(AWS \(EC2, ECS, EKS, RDS, S3, IAM, KMS, Lambda, API Gateway, CloudFront, WAF, ALB, Route53,) Tj
+T* (EventBridge\), Azure, GCP) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 144.567165354330541 Td
+(Infrastructure & DevOps) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 122.4569291338580115 Td
+(Terraform, Terraform Enterprise, Vault Enterprise, GitLab, Azure DevOps, Jenkins, Kubernetes, Docker, Git) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 96.9451181102359669 Td
+(Security & Compliance) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 8147
+>>
+stream
+0.8503937007874016 w
+0. G
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(IAM, KMS BYOK, Private CA, WAF, Cloudfront, Cognito, Keycloak, SAML/OIDC, SSO, Siteminder, Kerberos,) Tj
+T* (LDAP, OpenLDAP) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 748.346692913385823 Td
+(AI & Data) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 726.2364566929134071 Td
+(Amazon Bedrock, PostgreSQL \(pgvector\), Python \(FastAPI, asyncio\), LLM Pipelines, RAG, Hypothesis) Tj
+T* (\(property-based testing\)) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 689.3860629921259715 Td
+(Monitoring & Observability) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 667.2758267716535556 Td
+(CloudWatch, Splunk, Grafana, Prometheus, InfluxDB, Dynatrace, Centreon, NAGIOS, Graylog) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 641.7640157480315111 Td
+(Legacy & Middleware) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 619.6537795275589815 Td
+(J2EE 1.4-5, .NET, Websphere 5-6, Tomcat, Apache, Spring, Hibernate, Active Directory, Alfresco, Windchill,) Tj
+T* (Foundry) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 582.8033858267716596 Td
+(Education) Tj
+ET
+0.8503937007874016 w
+0. G
+56.6929133858267775 572.5986614173227736 m
+538.5870866141731312 572.5986614173227736 l
+S
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 545.3907874015746984 Td
+(Coursera) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+511.5524409448818233 546.2407874015748348 Td
+(2020) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 526.7714960629921279 Td
+(Google Cloud Platform Fundamentals for AWS Professionals) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 505.617559055118079 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 508.4522047244093983 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 508.4522047244093983 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 489.2829133858267028 Td
+(Global Knowledge) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+458.0924409448817869 490.1329133858267255 Td
+(December 2017) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 470.6636220472440186 Td
+(Implementing Microsoft Azure Infrastructure Solutions) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 449.5096850393700265 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 452.3443307086614027 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 452.3443307086614027 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 433.1750393700787072 Td
+(Global Knowledge) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+458.0924409448817869 434.0250393700787299 Td
+(December 2017) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 414.555748031496023 Td
+(Security Operations on AWS) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 393.4018110236220878 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 396.2364566929134071 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 396.2364566929134071 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 377.0671653543307684 Td
+(ABC Systeme) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+469.5324409448818415 377.9171653543307343 Td
+(October 2016) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 358.4478740157480843 Td
+(AWS Technical Essentials) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 337.2939370078740922 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 340.1285826771654115 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 340.1285826771654115 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 320.9592913385828297 Td
+(ABC Systeme) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+469.5324409448818415 321.8092913385827387 Td
+(October 2016) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 302.3400000000000318 Td
+(AWS Solutions Architect - Associate) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 281.1860629921261534 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 284.0207086614174159 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 284.0207086614174159 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 264.8514173228347772 Td
+(Open Group) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+486.6924409448818096 265.7014173228348 Td
+(April 2015) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 246.2321259842520931 Td
+(TOGAF Foundation + Certified 9.1) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 225.078188976378101 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 227.9128346456694771 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 227.9128346456694771 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 208.7435433070868385 Td
+(SQLI Toulouse) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+489.0024409448818119 209.5935433070868612 Td
+(July 2009) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 190.1242519685041543 Td
+(Overview of Computer Architectures) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 168.9703149606301622 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+243.7817322834645211 171.8049606299215384 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+428.0359055118109382 171.8049606299215384 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+59.5275590551181182 152.635669291338786 Td
+(IUP Informatique Avignon) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+483.7224409448818392 153.4856692913388088 Td
+(2000-2003) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 134.0163779527561019 Td
+(Master's Degree in Mathematics and Computer Sciences) Tj
+ET
+0.78 G
+0. w
+0. g
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 99.5352755905513504 Td
+(Languages) Tj
+ET
+0.8503937007874016 w
+0. G
+56.6929133858267775 89.3305511811024644 m
+538.5870866141731312 89.3305511811024644 l
+S
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 62.972677165354412 Td
+(French) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+229.6062992125984579 62.972677165354412 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+504.7324409448818301 62.972677165354412 Td
+(Native) Tj
+ET
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 6756
+>>
+stream
+0. w
+0.78 G
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+59.5275590551181182 789.7053543307087011 Td
+(English) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+229.6062992125984579 789.7053543307087011 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+475.6924409448818096 789.7053543307087011 Td
+(Professional) Tj
+ET
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0.063 0.125 0.267 rg
+56.6929133858267775 755.2242519685039497 Td
+(Experience) Tj
+ET
+0.8503937007874016 w
+0. G
+56.6929133858267775 745.0195275590551773 m
+538.5870866141731312 745.0195275590551773 l
+S
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 720.6462992125983646 Td
+(Solvay) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 722.3462992125984101 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+430.5670866142680211 721.4962992125983874 Td
+(Since November 2025) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 707.6962992125984329 Td
+(AWS Solution Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 695.8962992125983646 Td
+() Tj
+T* (Solvay - Leading AWS architectures for applications and Landing Zone design.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 672.8962992125984783 Td
+() Tj
+T* (- Design and architecture of AWS solutions for applications and Landing Zone ; Constant documentation) Tj
+T* (review) Tj
+T* (- AWS platform leadership in coordination with Infra Lead Architect ; Responsibility for AWS changes) Tj
+T* (- Guidance of Infrastructure Cloud Engineers ; Increased Robustness and Security) Tj
+T* (- FinOps collaboration for cost control and reduction) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 603.8962992125983646 Td
+() Tj
+T* (AWS, Azure, Jenkins, Terraform) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 562.1884251968504032 Td
+(Galiceau) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 563.8884251968504486 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+425.1770866142679779 563.0384251968504259 Td
+(Since 2026 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 549.2384251968503577 Td
+(AI Systems Architect - Secure RAG / Agentic AI Systems) Tj
+T* (Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 524.7884251968503122 Td
+() Tj
+T* (Galiceau - Design of autonomous AI systems and secure RAG for enterprise documents and multi-platform) Tj
+T* (publishing.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 490.2884251968503122 Td
+() Tj
+T* (- Secure RAG - End-to-end architecture \(ingestion, retrieval, generation, audit\) ; Vector search with) Tj
+T* (document-level permissions ; LLM pipelines with token control and concurrency ; Secure AWS infrastructure) Tj
+T* (\(KMS BYOK, IAM least privilege\)) Tj
+T* (- Agentic AI - Autonomous multi-platform agent \(generate / evaluate / decide / act\) ; Hybrid decision-making) Tj
+T* (\(deterministic + LLM\) ; RAG-based knowledge system for constraint enforcement ; Engagement agent \(feed) Tj
+T* (scanning, reply generation\) ; Human-in-the-loop via Telegram) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 409.7884251968504259 Td
+() Tj
+T* (Python \(FastAPI, asyncio\), Amazon Bedrock, PostgreSQL \(pgvector\), AWS \(ECS Fargate, RDS, S3, KMS,) Tj
+T* (Cognito, CloudWatch\), Terraform, Docker, React/TypeScript, Telegram Bot API) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 356.5805511811024076 Td
+(Cegid) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 358.2805511811023962 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+396.3570866142679279 357.4305511811024303 Td
+(October 2024 - October 2025) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 343.6305511811023621 Td
+(AWS Architect & Lead DevOps) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 331.8305511811024076 Td
+() Tj
+T* (Cegid - Cloud team support for AWS platform implementation.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 308.8305511811024644 Td
+() Tj
+T* (- Tech Lead and AWS/DevOps Advisor ; Landing Zone design and implementation) Tj
+T* (- Application migration support to AWS ; CI/CD pipeline design and implementation) Tj
+T* (- FinOps support \(Saving Plans, BYOL, data consumption optimization\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 262.8305511811024644 Td
+() Tj
+T* (Terraform, AWS Cloud WAN, Transit Gateway, Direct Connect, IAM, Azure DevOps, Dynatrace) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 221.1226771653543892 Td
+(Smeg) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 222.8226771653544347 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+396.5770866142678983 221.972677165354412 Td
+(February 2023 - August 2024) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+482.8170866142679643 209.3226771653544347 Td
+(\(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 196.6726771653543437 Td
+(AWS Solution Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+503.2870866142679915 197.5226771653543665 Td
+(Monaco) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 184.8726771653543892 Td
+() Tj
+T* (Smeg - Infrastructure team support for AWS platform construction and improvement.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 161.8726771653545029 Td
+() Tj
+T* (- Smeg Landing Zone design and implementation \(IAM, VPN, Transit Gateway, Config Rules, Security\)) Tj
+T* (- EKS/RDS pattern design for Smeg applications ; VDI solution design and implementation based on AWS) Tj
+T* (Workspaces) Tj
+T* (- Public Endpoint security strategy \(WAF, Cloudfront, WEB ACL, ALB, API Gateway\) ; Private CA and) Tj
+T* (Private Hosting Zone) Tj
+T* (- Resilient and scalable GitLab architecture ; IaC adoption \(Terraform, GitLab\) ; Backup/restore strategy ;) Tj
+T* (FinOps support) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 69.8726771653543892 Td
+() Tj
+ET
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 7227
+>>
+stream
+0. w
+0.78 G
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 793.3899999999999864 Td
+(AWS, Transit Gateway, VPC, IAM, EKS, EC2, RDS, S3, AWS Backup, Kubernetes, Workspaces, Terraform) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 763.1821259842519112 Td
+(BPiFrance / TeamLogs) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 764.8821259842519567 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+368.5270866142680006 764.0321259842519339 Td
+(July 2025 - September 2025 / June) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+398.9970866142679142 751.3821259842519567 Td
+(2025 - July 2025 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 738.7321259842519794 Td
+(AWS Security Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 726.9321259842519112 Td
+() Tj
+T* (BPiFrance & TeamLogs - Cloud security audits and remediation.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 703.9321259842519112 Td
+() Tj
+T* (- Comprehensive security audits ; Identification and categorization of high-risk security deficiencies) Tj
+T* (- Detailed remediation plan development ; FinOps support for cost optimization) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 669.4321259842520249 Td
+() Tj
+T* (AWS, Azure, Jenkins, Terraform \(BPiFrance\) ; AWS, EC2, IAM, IoT, API Gateway, S3, ALB/NLB, Lambda) Tj
+T* (\(TeamLogs\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 616.2242519685039497 Td
+(MoodWork / Monaco Government) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 617.9242519685038815 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+384.8070866142679733 617.0742519685039724 Td
+(January 2025 - May 2025 / May) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+374.7970866142678688 604.4242519685039952 Td
+(2022 - February 2024 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 591.7742519685039042 Td
+(AWS Solution Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 579.9742519685039497 Td
+() Tj
+T* (MoodWork & Monaco Government - Data segregation architecture and sovereign Data Platform.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 556.9742519685039497 Td
+() Tj
+T* (- MoodWork - Robust data segregation strategy implementation ; Application-level encryption design and) Tj
+T* (implementation ; EKS platform critical review) Tj
+T* (- Monaco - Design and deployment of Data Platform for Monaco Government ; Landing Zone \(Identity) Tj
+T* (Baseline, Transit Gateway, Site-to-Site VPN, Client VPN\) ; Terraform Enterprise and Vault Enterprise) Tj
+T* (architecture ; Keycloak SSO \(SAML/OIDC\) ; Vault-based Public Key Infrastructure) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 487.9742519685038928 Td
+() Tj
+T* (AWS, EKS, KMS, Kubernetes, Terraform, Java \(MoodWork\) ; AWS EC2/RDS/Route53/ACM/KMS/ECS,) Tj
+T* (Terraform, Vault, GitLab, Keycloak, SSO \(Monaco\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 434.7663779527559313 Td
+(Vallourec / Safran Cabin) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 436.46637795275592 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+386.0170866142680097 435.6163779527559541 Td
+(May 2022 - July 2022 / January) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+396.6870866142679688 422.9663779527559768 Td
+(2022 - April 2022 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 410.3163779527559427 Td
+(FinOps Architect / Data Platform Solution Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 398.5163779527559882 Td
+() Tj
+T* (Vallourec & Safran Cabin - AWS cost assessment and Data Platform construction support.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 375.5163779527559882 Td
+() Tj
+T* (- Vallourec - Cost and Usage Assessment \(Brazil, US\) ; AWS application evaluation ; Optimization) Tj
+T* (elaboration) Tj
+T* (- Safran - Data Platform construction support for Safran Cabin and Safran Group on AWS) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 329.5163779527559882 Td
+() Tj
+T* (AWS \(Vallourec\) ; AWS \(Safran\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 287.808503937007913 Td
+(Airbus \(multiple missions\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 289.5085039370079585 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+421.5470866142679824 288.6585039370079357 Td
+(2019 - 2021 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 274.8585039370078675 Td
+(AWS Solution Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+454.7870866142679915 275.7085039370078903 Td
+(Toulouse / Blagnac) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 263.058503937007913 Td
+() Tj
+T* (Airbus - Multiple projects: Customer Line Execution System, Data Factory monitoring, Skywise platforms.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 240.0585039370080267 Td
+() Tj
+T* (- CLES \(October 2021 - December 2021\) - CLES System development ; CLES Dataset building pipeline in) Tj
+T* (Skywise ; Data model design ; PoC for Skywise CLES ingestion pipeline) Tj
+T* (- Data Factory \(October 2018 - March 2019\) - Monitoring solution design ; Splunk Dashboards for) Tj
+T* (historical/real-time insights) Tj
+T* (- Skywise DX/DA \(April 2019 - April 2020\) - Technical Leader ; Massive Data Extractor design and) Tj
+T* (deployment ; Architecture consultation and support) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 159.5585039370080267 Td
+() Tj
+T* (AWS Glue/S3/IAM/RDS/CloudWatch/EventBridge/Lambda/SQS, Terraform, Github, Python, Foundry) Tj
+T* (\(CLES\) ; Foundry, Splunk \(Data Factory\) ; AWS Lambda/ECS/S3/SNS/IAM/KMS/Step) Tj
+T* (Function/Cloudfront/CloudFormation, MobileSSO, OneLogin, Mulesoft, Salesforce, Foundry, Jenkins,) Tj
+T* (Cucumber, SonarQube \(DX\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 83.3506299212598378 Td
+(Monaco Digital / AXA Group Operation / Roche) Tj
+T* (Diagnostics) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 85.0506299212598833 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+421.5470866142679824 84.2006299212598606 Td
+(2020 - 2021 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 56.6006299212598378 Td
+(AWS Solution Architect / Security Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 44.8006299212598833 Td
+() Tj
+ET
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6898
+>>
+stream
+0. w
+0.78 G
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 793.3899999999999864 Td
+(Monaco Digital, AXA, Roche - Sovereign cloud, risk assessment, solution design.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 781.8899999999999864 Td
+() Tj
+T* (- Monaco Digital \(January 2021 - November 2021\) - Sovereign cloud for Monaco Government and OIV ;) Tj
+T* (CMP and Monitoring PoC ; Landing Zone ; Hosting zone monitoring ; PKI for Certificate Authorities ; AWS) Tj
+T* (IAM to VMware Identity Manager federation) Tj
+T* (- AXA \(October 2020 - December 2020\) - Risk assessments for AWS services/applications ; AWS) Tj
+T* (Foundation Assurance Plan) Tj
+T* (- Roche \(October 2020 - March 2021\) - META1 Solution design from PoC ; Security improvement and Roche) Tj
+T* (Security Standard alignment ; CI/CD design) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 689.8899999999999864 Td
+() Tj
+T* (AWS OutPost/Organization/Config) Tj
+T* (Rules/EKS/ECS/Kubernetes/SSO/RDS/Kinesis/EC2/ALB/Route53/Cloudfront/WAF, Terraform Enterprise,) Tj
+T* (Terraform Vault, GitLab, CloudBolt, Ansible, Grafana, InfluxDB, Prometheus \(Monaco\) ; AWS \(AXA\) ; AWS) Tj
+T* (Route53/Cloudfront/Cognito/Amplify/AppSync/CMK/KMS/S3/IAM/API) Tj
+T* (Gateway/DynamoDB/Elasticsearch/CloudWatch/SES/CodeBuild/CodePipeline, Sumologic, Dome9, Gitlab) Tj
+T* (\(Roche\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 590.6821259842520249 Td
+(Air France-KLM / NavBlue) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 592.3821259842519567 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+421.5470866142679824 591.5321259842519339 Td
+(2018 - 2019 \(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 577.7321259842519794 Td
+(Cloud Security Architect / AWS Solution Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+454.7870866142679915 578.5821259842518884 Td
+(Toulouse / Blagnac) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 565.9321259842519112 Td
+() Tj
+T* (AF/KLM & NavBlue - Hybrid Cloud security and infrastructure operations.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 542.9321259842519112 Td
+() Tj
+T* (- AF/KLM \(January 2018 - July 2018\) - Cloud strategies promotion and support ; Hybrid Cloud Security Best) Tj
+T* (Practices \(AWS/Azure\) ; Target Architecture design ; Security design patterns ; 24x7 continuous service) Tj
+T* (transition ; RFP support \(IDaaS, CASB\)) Tj
+T* (- NavBlue \(December 2018 - March 2019\) - Dedicated Ops solutions ; PoC validation ; EKS \(Kubernetes\)) Tj
+T* (architecture and infrastructure ; Infrastructure as Code automation ; Ops Team adoption support ;) Tj
+T* (Architecture documentation) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 462.432125984251968 Td
+() Tj
+T* (AWS, Azure \(AF/KLM\) ; Terraform, AWS \(EKS/EC2/VPC/RDS/Lambda/Route53/ELB\), Kubernetes,) Tj
+T* (Grafana, Prometheus, Dashboard K8s, Jenkins \(NavBlue\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 409.2242519685039497 Td
+(Airbus \(long tenure\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 410.9242519685039383 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+404.3870866142679006 410.0742519685039156 Td
+(July 2012 - December 2017) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+482.8170866142679643 397.4242519685039952 Td
+(\(Freelance\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 384.7742519685039042 Td
+(IT Architect for Physical Design / Java/J2EE Expert) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+397.8870866142679006 385.6242519685039269 Td
+(Saint-Martin du Touch / Blagnac) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 372.9742519685039497 Td
+() Tj
+T* (Airbus - Technical design of solutions and infrastructure ; 5+ years engagement.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 349.9742519685040065 Td
+() Tj
+T* (- Technical design of solutions and infrastructure per functional architecture and Business SLA ; Alignment) Tj
+T* (with Airbus standard middleware \(VAX/VMS, MS SQL, DB2, AIX, Websphere, Tomcat, Oracle, Windows\) ;) Tj
+T* (Security policy and operational constraints) Tj
+T* (- Infrastructure components definition \(IaaS, PaaS, storage, network\) aligned with Airbus standards ; High) Tj
+T* (availability design ; Technical architecture workshops and cost estimation \(Hardware, Software, Operations,) Tj
+T* (Design\)) Tj
+T* (- Architecture scenarios evaluation with pros/cons analysis and associated budget ; Validation meetings with) Tj
+T* (project, security, operation teams) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 246.4742519685040634 Td
+() Tj
+T* (J2EE, .NET, LDAP, Unix, Solaris, Windows, Apache, Tomcat, Websphere, Siteminder, Kerberos, Security,) Tj
+T* (Windchill, AIX/Solaris, VMS, ESX, Active Directory, PaaS, IaaS, Grid Computing, LSF) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 193.2663779527559882 Td
+(Airbus France / Orange / La Poste / Infotel) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 194.9663779527560337 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+433.097086614267937 194.1163779527560109 Td
+(2006 - 2011 \(Various\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 180.3163779527559427 Td
+(IT Architect / Technical Manager / Technical Expert) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 168.5163779527559882 Td
+() Tj
+T* (Early career roles - IT architecture, technical exploitation, integration projects.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 145.5163779527561019 Td
+() Tj
+T* (- Airbus France \(November 2007 - December 2010\) - Architect for Functional Design Activities for) Tj
+T* (engineering departments ; Validation of application solutions ; Consistency with Airbus standards) Tj
+T* (- Orange \(June 2006 - October 2007\) - Technical exploitation of E-Technician application \(front office) Tj
+T* (PDA/WAP, back office Web\) ; Updates development \(batch, Java components, bug fixing\) ; Operations) Tj
+T* (management, monitoring, bug tracking) Tj
+T* (- La Poste \(August 2005 - May 2006\) - Habilinet to W@C Portal \(Vignette\) interfacing study ; Prototyping,) Tj
+T* (unit/integration/workload tests ; Habilinet 2.1.0 production) Tj
+T* (- Infotel \(October 2011 - April 2012\) - ADOC Manager V3.1 project support ; SGML documents bulk) Tj
+ET
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2613
+>>
+stream
+0. w
+0.78 G
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 793.3899999999999864 Td
+(import/export prototype ; Architecture analysis and evolution design) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 781.8899999999999864 Td
+() Tj
+T* (J2EE, .NET, LDAP, Unix, Solaris, Windows, Apache \(Airbus France\) ; Windows CE, IE, Linux, J2EE, JSP,) Tj
+T* (XML/XSL, AXIS, WAP, Web Services, Jolt/Tuxedo, Oracle, JMS, MQ-Series \(Orange\) ; Windows, ASP,) Tj
+T* (ASP.NET, DNA, COM+, VB6, C#, .NET, SQL Server, Oracle, Vignette \(La Poste\) ; Java, J2EE, Hibernate,) Tj
+T* (JBoss, Spring, Tomcat, Oracle, Linux \(Infotel\)) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0.098 0.318 0.333 rg
+56.6929133858267775 705.6821259842520249 Td
+(BRL / GFI Informatique / Generali) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+358.508346456787649 707.3821259842519567 Td
+() Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0. g
+480.3970866142680052 706.5321259842519339 Td
+(2004 - 2009) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0.078 g
+56.6929133858267775 692.7321259842519794 Td
+(Software Engineer / Technical Project Manager / IT Architect) Tj
+ET
+0.78 G
+0. w
+0. g
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 680.9321259842520249 Td
+() Tj
+T* (Early career - Software development, project management, technical design.) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 657.9321259842519112 Td
+() Tj
+T* (- BRL - Software Engineer \(December 2004 - May 2005\): Borneo system component design and) Tj
+T* (development ; Testing and integration ; Quartz \(OpenSymphony\) integration) Tj
+T* (- BRL - Technical Project Manager \(June 2005 - August 2005\): BRL information system integration \(Borneo\)) Tj
+T* (; Operations monitoring, updates implementation, bug tracking) Tj
+T* (- GFI Informatique \(2006 - December 2009\): Platform design for agency projects ; Technical support ;) Tj
+T* (Technical department creation and management) Tj
+T* (- Generali \(April 2004 - May 2004\): WebSphere 5.1 support tools design and development ; Java component) Tj
+T* (wrapper scripts ; Unit and integration testing) Tj
+ET
+0.78 G
+0. w
+0. g
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+59.5275590551181182 554.4321259842520249 Td
+() Tj
+T* (Unix, Tomcat, Oracle, JSP, J2EE, JavaScript, HTML, Eclipse \(BRL\) ; J2EE, PHP, LemonLDAP, Oracle \(GFI\)) Tj
+T* (; AIX, Windows, SSH, Shell Script, JACL, J2EE, Log4J, Websphere \(Generali\)) Tj
+ET
+0. G
+0.8503937007874016 w
+0.78 G
+0. w
+0. G
+0.8503937007874016 w
+0. G
+0.8503937007874016 w
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R ]
+/Count 6
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+29 0 obj
+<<
+/Length 48128
+/Length1 48128
+>>
+stream
+    
+ 0 E pcmap`Kr⁄   ¨  ‹glyfúr‰  à   0loca õ  ∏  "Xhmtx9≠:  *  "Thhea
+"≠  Ld   $maxp	Î8  Là    post4yÃ^  L®  d[nameíV|	  ±  
+ahead\aµ  ªh   6OS/2F)Ì  ª†   `              “      ∂  (   (   
+   ~ÄÉÜâíóõ°©±πªı 3>TakmvÅÖäèíòöú§ßou~äå°Œ_myìù•¬»˘?ˆ˚	[_hnsuz¡ õ˘EMWY[]}¥ƒ”€ÔÙ˛ c q é î © Æ µ ∫!!	!!!!"!'!+!2!;!D!K!N!!Ñ""""""+"H"`"e#Œ$#%%%%%%%à% %œ&;&j,l,v..ßß!˜©¯ˇ˚ˇ°ˇ§ˇßˇˇ          †ÇÜâãñöù¶Æµª¿˜&7AVemoxÉáåíîöúû¶©tzÑåé£Úbpêñ†™«œ˛?–˚C]ajquzøƒ †  HPY[]_Ä∂∆÷›Úˆ   j t ê † ´ ± ∏! !	!!!! !&!)!2!:!A!K!M!_!É""""""+"H"`"d#Œ$#% %%%%%%à% %œ&9&j,`,u. .ß ß ˜†¯ˇ˚ˇ°ˇ§ˇßˇˇ   ˇıˇ‰ˇ„ˇ¬ˇ¡ˇøˇΩˇºˇπˇ∑ˇ∂ˇ≤ˇÆˇ´ˇ™ˇ¶ˇ•ˇ†ˇùˇõˇöˇóˇñˇïˇîˇìˇíˇëˇèˇéˇçˇåˇãˇäˇâˇÖˇÅˇ|ˇ{ˇzˇyˇVˇTˇRˇ<ˇ:ˇ8ˇ4ˇ0ˇ*ˇ&ˇıÌÛ]ÛYÁTÁNÁJÁHÁGÁEÁ"Á!Á ÁÁÁÁÊ‘Ê“ÊùÊôÊìÊëÊèÊçÊãÊäÊâÊàÊáÊÖÊÑÊÉÊÅÊÄÊ~Ê}Ê|ÊvÊtÊsÊhÊgÊeÊcÊÊÊÊÊÊÊÊÊÂ˙ÂıÂÔÂÓÂﬁÂ€Â^Â[ÂTÂMÂJÂ>Â"ÂÂ„†„L‚p‚h‚f‚d‚b‚`·Ù·≥·Ø·F·€#€ŸíŸé`¨`ß)‘”531   &                                                                                                                                                                                                                                                                                                        
+                                                                      	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a   Ü á â ã ì ò û £ ¢ § ¶ • ß © ´ ™ ¨ ≠ Ø Æ ∞ ± ≥ µ ¥ ∂ ∏ ∑ º ª Ω æú r d e iû x ° p k- v jk à öh slm g w`ec9i l |" ® ∫ Å c ngNja m }¢ b Ç Ö óèêòôîï π} ¡:¿µ∂‘’ù yñö¨ Ñ å É ç ä è ê ë é ï ñ” î ú ù õ ÛOe qabc zfdP  B  –Ω   µ (+3!'!Bé∏¸‚Ω˙C∏M˚≥        0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 B    9  9  9 Ì◊ Rs  s @ BV Yá ú™ é™ D N¨ \9 ™™ U9 Ø9  s @s ƒs @s 1s 4s Bs Ms Ks Bs I9 „9 „¨ ¨ \¨ s ú ·V V ó« Z« •V Ø„ Ø9 c« °9 …  #V ús ú™ ó« ú9 PV Ø9 P« ¥V `„ !« ™V 4ç %V *V *„ /9 Ä9ˇª9 /¡ xs  ™ &s Rs v  ;s 8s H9 s =s Ñ« Ñ«ˇ⁄  Ä« â™ Ñs Ñs ;s vs <™ â  B9 s Ä  «       4¨ˇ’ ê¨ *¨ 9  ™ Ës hs 8s Ksˇ· ês K™ RÂ ˆ ;s ¬¨ \™ UÂ ™ 3 od \™ ™ ™ äúˇ¥Lˇı9 ó™ y™ WÏ 1s ¬¨ £¨ Z¨ K„ ∫V V V V V V   « ZV ØV ØV ØV Ø9 9 k9ˇ˘9  « !« ú9 P9 P9 P9 P9 P¨ t9 B« ™« ™« ™« ™V *V Ä„ «s Rs Rs Rs Rs Rs R I  ;s Hs Hs Hs H9 9 g9  9 %s =s Ñs ;s ;s ;s ;s ;d \„ \s Äs Äs Äs Ä  s Ä  V s RV s RV s R« Z  ;« Z  ;« Z  ;« Z  ;« •H 8« !s 8V Øs HV Øs HV Øs HV Øs HV Øs H9 cs =9 cs =9 cs =9 cs =« °s Ñ« 5s >è iq D3 Y e9ˇ˚9ˇ˚9 5«ˇﬂ9 …9 Ω9 …é Ñ  #«ˇ£V ú  Ä  Äs ú És ú« âs ú Ns ú{ âsˇË«ˇ◊« ús Ñ« ús Ñ« ús Ñs « ús Ñ9 Ps ;9 Ps ;9 Ps ;  Iç G« ¥™ â« ¥™ â« ¥™ BV `  BV `  BV `  BV `  B„ !9 „ !· „ !èˇ‚« ™s Ä« ™s Ä« ™s Ä« ™s Ä« ™s Ä« ™s Äç %« V *  V *„ /  4„ /  4„ /  49 s 8V Øs v« Y« !V Øs vâ IV Ø aH \„ s (« >ª #ª #s %«ˇÚs Ñ9 P Ph ; 4V `  Bò 9„ !Ê ™ï Ä
+ R„ /  4e "e 6 4à E ∂s ∂å +9 √	‚ t¡ O€ 8⁄ kß q˜ XÁ q k° SV s R9 9ˇˇ9 Ps ;« ™s Ä« ™s Ä« ™s Ä« ™s Ä« ™s Äs HV s RV s R   IS 2» 39 cs =V ú  Ä9 Ps ;9 Ps ;L Í «ˇæ	Õ T¸ o˚ 89 cs =V Ø« ús ÑV s R   I9 B„ \V s RV s RV Øs HV Øs H9ˇq«ˇ59ˇ¯«ˇ™9 Ps ;9 Ps ;« ¥™ˇ÷« ¥™ O« ™s Ä« ™s ÄV `  B„ !9 O ¨O ¨« °s Ñ« ™V s RV Øs H9 Ps ;9 Ps ;9 Ps ;9 Ps ;V *  «ˇ⁄r [8 EV « Z  ;sˇË„ !s ús ú  0∆ .V 4V Øs HV #«ˇ⁄· "È  ? / . È 1s Q≤ 9≤ 9s r  :‹ 8Ω 8s Hs Hô 9+ R+ SU >˛ =9 ◊ =s =s És Ç◊ Çª # áA #Û " Ü™ É™ É™ Ñsˇ÷“ Ñ^ Ts ;ç G« P™ à™ àá à™ â™ Ü« *« *6 É6 É:ˇ˝:ˇ˝i 9 9 ) 0g <  
+«   ˜  $s ús ùs ú :9 P˛ =ƒ °  Ä ú“ <s ús úr 8v ` : Œ ¬ â∏ âo R h∏ 2+ 2: B: A ‰ˇÌU EU Dƒ D˝ ]‰ 	  U a{ a« Ñ« ™« ™© ä© ä: N: OV V V $V $™ *™ *á x™ ™ ¡™ :á x™ ™ :™ ¡© !© !© ä© äV .V .V .™ U™ ™ ˜™ Ñ™ °™ˇ˜™ˇˇO V :: 	 „ D  !  : OK  K  K  K  K  w ;w ;™ ™ˇ˜™ NV $V $V V ™ x™ :™ 3™ 3™ˇÈ9 „™ æ™ æ™ æ™ æ™ <™ <á   ¸¸  ¸¸  ¸ú  ¸h  ¸Ü  ¸f  ¸ä  ˝i  ¸ƒ  ˝<  ¸ˆ  ¸p  ¸ú  ˝ì  ˝*  ¸p  ¸ä  ¸ä  ˝[  ˝[  ˝[  ˝[  ¸¸  ¸¸  ¸¬  ¸¬  ¸¬  ¸ƒ  ˝^  ¸¡  ¸¡  ¸¡  ¸Ü  ˝o  ˝o  ˝i  ¸ƒ  ¸ˆ  ˝[  ¸Í  ˝  ˝ì  ¸I  ˚v  ¸ú  ¸ú  ¸ä  ¸ä  ¸h  ¸Ü  ¸f  ¸f  ¸h  ¸Ü  ¸f  ¸ë  ¸ë  ˝^  ¸I  ¸¡  ¸  ¸Õ  ˝P  ¸f  ¸¸  ¸¸  ¸ä  ˝[  ¸ç  ˝  ¸I  ¸Ü  ˝*  ˝1  ¸s  ¸s  ¸¬  ˙c  ¸‡      ¸¢  ˝^  ¸ä  ¸Õ  ¸¢  ¸¢  ˚û  ˝^  ˛ï  ¸é  ¸Q  ¸ü  ˙  ˙  ˙  ˙  ˘   ˙  ¯e  ¸…  ¸“  ˝ò  ¸Õ  ¸Ô  ¸·  ¸Ÿ  ¸Ï  ¸^  ˝D  ˝J  ¸œ  ¸—U aU a4 Q  ;  ;  ;7 ·" /µ ’ r9 öß /∫ /H /â / /© /9ˇÀV « ≈„ ’« )V ≈„ H« ∞9 q9 ∫V ∞V / æ« ∞„ b9 q« ∞V ≈„ X· /V )« PX =® 9 d9 
+V )„ Zs w„ ;9 ∞„ ∏„ Z„ ¥s „ hs wç J„ ;Â è9 ∞s ∞s %„ ∏s B  q„ od /„ ™s L„ o  ;„ ∏« ws « è j9 
+„ ∏„ o„ ∏ j  ;™ˇ€9 q ? ?V Æs Ä« Z™ ó› óõ F« Z« Z« Zm uV ò ' ò« PV b9 ∫9   #  %· ò9 NV òﬂ ñV /« òm $L òV ò' òú %V ò 
+T E« ò« òV ò~ %™ ò« ò9 P« òV ò« P„ V /ÿ AV %€ ò6 `ç ò° ò™ 	 ò6 ò« d  ò∑ js Vs Hb á9 áŸ s P=   3´ á´ áb áò T ás ás Hs ás }  H  3  ® F  ë áN \9 áW á„ « áˇ á /9 áw PÜ Rs Ps 9 á  H  H« á )«ˇ›√ | ás b áÜ á  s ám „ " –· äV   ô –œ ä® ‹ ]U D‡ &® « è9 Ps HV %  V 4∂ 
+9 Ps ;s ò áÈ œ Ÿ › 0O r
+ Gm • z2 •ﬂ z˛ (N 5ﬂ ¨Ü ë_ ¨õ ëﬂ c ?¯ + :V *V *V *V *m . $r H≥ 8¨ ¨z w¨ ¨z w¨ ¨z wH :î &H :î &9 …# 
+â ﬂ ¨Ü ë9 Ωm $Ü Cm $Ü C   Im uÜ R as P as PŸ › O C
+ 0e " $ﬂ ñÜ áﬂ ñÜ áU PÜ RU NÜ LU NÜ Lﬂ ` 7m  m  m  ¨ ^z iŸ º| ëH ò  çm . $` ö¶ ZO r
+ GÒ &ú $t ó∑ kó q∞ Oó J jZ U’ L© Dø K‡ ;	e J˘ V NÌ J  ?P P£ JÛ M3 `π G@ D Kg Eæ >= =÷ RÑ D J Fó 9˙ XP -Õ ^` Vï 2^ UÈ >b T¬ IE ˆ≈ + R« Ñ^ TÊ 8· :˙ 9n >s 9s ;6 É6 É6 É‹ M2 *æ 3) :) :U ( 4) T) () 3) 3ˆ :ˆ :) +C ^◊ [ª ^) ^) *◊ )) ') *) Tî ) [s 7ª ^◊ x Ä) x J) 
+C ^‰ a) [◊ x Ä) x y) 
+À 5÷ ˙ ÿ È 0 Ÿ 
+€ 
+ . è  ¸O  ¸O  ¸B  ¸B  ¸B  ¸B  ¸  ¸  ˝DV s RV ós vV ós vV ós v« Z  ;« •s 8« •s 8« •s 8« •s 8« •s 8V Øs HV Øs HV Øs HV Øs HV Øs H„ Ø9 9 cs =« °s Ñ« °s Ñ« °s Ñ« 9s « °s Ñ9ˇÏ«ˇû9 '9 V ú  ÄV ú  ÄV ú  Äs ú« âs ú«ˇùs ú«ˇµs ú«ˇ¿™ ó™ Ñ™ ó™ Ñ™ ó™ Ñ« ús Ñ« ús Ñ« ús Ñ« ús Ñ9 Ps ;9 Ps ;9 Ps ;9 Ps ;V Øs vV Øs v« ¥™ â« ¥™ É« ¥™ J« ¥™ V `  BV `  BV `  BV `  BV `  B„ !9 „ !9 „ !9ˇ‚„ !9ˇÁ« ™s Ä« ™s Ä« ™s Ä« ™s Ä« ™s ÄV 4  V 4  ç %« ç %« ç %« ç %« ç %« V *  V *  V *  „ /  4„ /  4„ /  4s Ñ9 «   s R9 V s RV s RV s RV sˇÀV s RV s RV s RV s RV s RV s RV s RV s RV Øs HV Øs HV Øs HV Øs HV åsˇV Øs HV Øs HV Øs H9 Æ9 ô9 «« Ñ9 Ps ;9 Ps ;9 Ps ;9 Psˇÿ9 Ps ;9 Ps ;9 Ps ; Ph ; Ph ; Ph ; Ph ; Ph ;« ™s Ä« ™s ÄÊ ™ï ÄÊ ™ï ÄÊ ™ï ÄÊ ™ï ÄÊ ™ï ÄV *  V *  V *  V *  „ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z¡ [≥ [l àv àv àç à  o† os ws ws ws ws ws w¬ à¬ àt àâ à[ àh à„ ;„ ;„ ;„ ;„ ;„ ;„ ;„ ;3 à3 àÂ à˙ àÃ àŸ à	) o	) o9 ∞9 ∞9 A9 99 =9 =9 #9 #• à• àW àl à> àK àõ oõ o„ o„ o„ o„ o„ o„ o• à• à	W à	l à	> à	K à„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏¬ àâ àh à∏ o j j j j j j j jë àë à	C à	X à	* à	7 à	á o	á o„ Z„ Zs ws w„ ;„ ;9 ∞9 ∞„ o„ o„ ∏„ ∏ j j„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z [ [	ë à	ÿ à	 à	õ à	” o	Œ o„ ;„ ;„ ;„ ;„ ;„ ;„ ;„ ;	l à	l à à3 à à àb ob o j j j j j j j j	  à	  à| àë àc àp à¿ o¿ o„ Z„ Z„ Z„ Z„ Z„ Z„ ZV V f .a /© l à9 ∞l à" "ˇ≈„ ;„ ;„ ;„ ;„ ;¨ .ß /“ .∫ /1 ∞ à àb o9ˇœ9ˇŒ9ˇÃ9ˇ⁄9ˇ‹9ˇ≈9ˇ·9ˇÓC .H /3 à àb o„ ∏„ ∏„ ∏„ ∏„ ™„ ™„ ∏„ ∏V )V )± . /¬ àµ   " . j j j j jZ .â /í .© /x ^" /l à9  9  9  9  9  9  9  9  9     è  9                  ™ U™ U™ Usˇ˚  Ò  Òp ∂™ˇ˜« Ñ« ™« ™« ™™ N™ N™ N™ Ns Ps PÕ ï’ §ñ ÌV Ì  Ìñ Ì                                 ™ ¡/ ¡e ¡™ ¬/ ¬e ¬™ ™ ¥™ ™¨ %r Ìs ú™ ∆ $∆ $Í{ :™ UV˛™9 Ä9 ÄÊ ú¨ ú¨ Ì˜ °LˇıL sL r N9 „∆ $ N – ∆ $| L¨ t⁄ ¡¨ %¨ t9 „¨ % [9 „9 „9                                          :   ‰ B9 9 !: '9 %: !9 $V .U +V .U GU ": B:  : b9  9 9 9 !: '9 %: !9 $V .U +V .U GU ": ): $:   : $q "« Z« Zs  – (™ Ñd 7¬ NŸ N- 5s 8Ù `– 1„ !R )9 cV = z« Zs /( Xs ^¨ =¨ =« Z˙ o 1¨ :¨ : o« °5 Â V Ø9 P  0V   Ì% ^% ^«  V úV „ Æ9ˇÔ» X9 cs ús úV *V Yú )ê ¨ Z9 …r …´ …è …V 4è 4	» 4 4è …V *è *	» *s ú« Z« •™ ó« Ñé ÑU Ñ« Ñ  « é 	U « Ñ  « é « â  ;s 8™ Ñ« Z  ;Ù /Â qÂ qñ ñ ¥ (¨ \dˇÔ¥ *1˛Éd -d +d Zd \¿ " ; ˇÎ ˇÎ ¥ å ¥ å ˇÈ ˇÈ ¥ å ˇÈ ˇÈ   Ù B’ ±Â Â Â  ⁄ 8  $Ÿ à 8« ¥s R  I °œ ÑV ú  Ä„ /  4⁄ °Î °‡ KÈ K] %] 
+ô *ò ˚  g W W » Kÿ ÿ È :	| K	1 I	1 < KW "â â æ B ÿ ÿ ú ?Ä ;ú ?Ä ;ú SÅ <ú SÅ <Î „  „  „  Î Î S„ S„ S„ SÎ Sc Sc Sc Sc Sc S 0 E≤ &√ R hR hs @‡ 4s @s 1s 4s Bs M0 +s Bs IR i    Ã 	Ã 	Ã 	d \Ù j¥ (1ˇydˇÔd \« ™™ N9 cs =V 2 ˇÒs ú« « *s 
+« I™ ™ N« ™d 0Ù ,¥1 jdˇ4d )V Øs HV Øs H™ ó™ Ñ« ¥™ Ls Hs HV s Rs RV Øs HV Øs HV Øs H9ˇ9ˇ€« y9 Ps ;9 Ps ;9 Ps ;V `  B« ™s Ä  Ê ™ï ÄÊˇ < ´ (s r´ 3´ (s %„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z„ Z9ˇ◊9ˇ‰9ˇ“9ˇ◊9ˇ€9ˇ€9ˇÕ9ˇ‡9ˇ»9ˇ√9ˇ‹9ˇ‹9ˇ◊9ˇ◊9ˇ“9ˇÕ9ˇ“9ˇ◊„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏„ ∏f .a /¡ [l àv à≥ [v àç àf .a /¡ [l àv à≥ [v àç àC .H /H /• àW à> à• àl àK àC .H /H /• àW à> à• àl àK à± . / /¬ àâ àh à¬ àâ àh à± . / /¬ àâ àh à¬ àâ àh à« ¥ )¬ àâ àh àV V 9ˇﬂ9ˇ·V )V ) « ™™ N« ™™ N   )˛)  ¯e¸Ìë               ï   ï í 	 k   4 A n   ü˜         ˇ e                    ï           	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a ¨ £ Ñ Ö Ω ñ Ë Ü é ã ù © § ä ⁄ É ì Ú Û ç ó à √ ﬁ Ò û ™ ı Ù ˆ ¢ ≠ … « Æ b c ê d À e »   œ Ã Õ Œ È f ” – — Ø g  ë ÷ ‘ ’ h Î Ì â j i k m l n † o q p r s u t v w Í x z y { } | ∏ °  ~ Ä Å Ï Ó ∫ ˝ ˛	
+ ˇ  ¯ ˘ !"#$%&'()*+ ˙ ◊,-./0123456789: ‚ „;<=>?@ABCDEFGHI ∞ ±JKLMNOPQRS ˚ ¸ ‰ ÂTUVWXYZ[\]^_`abcdefghi ªjklm Ê Ánopqrstuvwxyz ¶{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz ÿ ·{|}~ÄÅÇÉÑÖÜáàâä € ‹ › ‡ Ÿ ﬂãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\ õ]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞± ≤ ≥≤≥¥ ∂ ∑ ƒµ ¥ µ ≈∂ Ç ¬ á∑∏π ´∫ªºΩæø¿¡¬ ∆√ƒ≈∆«»…  æ øÀÃÕŒœ–—“” º‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ ˜ !"#$%&'()*+,-./0123456789:;<=> å ü?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmno ò ®p öq ô Ô • í ú ß è î ïrstuvwxyz{|}~Ä πÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’ “ ¿ ¡÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìî
+softhyphenAmacronamacronAbreveabreveAogonekaogonekCcircumflexccircumflex
+Cdotaccent
+cdotaccentDcarondcaronDcroatEmacronemacronEbreveebreve
+Edotaccent
+edotaccentEogonekeogonekEcaronecaronGcircumflexgcircumflex
+Gdotaccent
+gdotaccentGcommaaccentgcommaaccentHcircumflexhcircumflexHbarhbarItildeitildeImacronimacronIbreveibreveIogonekiogonekIJijJcircumflexjcircumflexKcommaaccentkcommaaccentkgreenlandicLacutelacuteLcommaaccentlcommaaccentLcaronlcaron
+Ldotaccent
+ldotaccentNacutenacuteNcommaaccentncommaaccentNcaronncaronnapostropheEngengOmacronomacronObreveobreveOhungarumlautohungarumlautRacuteracuteRcommaaccentrcommaaccentRcaronrcaronSacutesacuteScircumflexscircumflexTcedillatcedillaTcarontcaronTbartbarUtildeutildeUmacronumacronUbreveubreveUringuringUhungarumlautuhungarumlautUogonekuogonekWcircumflexwcircumflexYcircumflexycircumflexZacutezacute
+Zdotaccent
+zdotaccentslongbstrokeBtopbarbtopbarOopenDafricanDtopbardtopbardeltaturned	EreversedSchwaEopenFhookIotaafricanIstrokelbaruni019B	NhookleftnlegrightlongOcenteredtildeOhornohornyrTonetwotonetwoEshTretroflexhookUhornuhornUpsilonafricanuni01B5uni01B6EzhEzhreversedezhreversed	twostrokeclickdentalclicklateralclickalveolarclickretroflexDZcaronDzcarondzcaronLJLjljNJNjnjAcaronacaronIcaronicaronOcaronocaronUcaronucaronUdieresismacronudieresismacronUdieresisacuteudieresisacuteUdieresiscaronudieresiscaronUdieresisgraveudieresisgraveeturnedAdieresismacronadieresismacron
+Adotmacron
+adotmacronAEmacronaemacronGstrokegstrokeGcarongcaronKcaronkcaronOogonekoogonekOogonekmacronoogonekmacronEzhcaronezhcaronjcaronDZDzdzGacutegacuteWynnNgravengrave
+Aringacute
+aringacuteAEacuteaeacuteOstrokeacuteostrokeacute	Adblgrave	adblgraveAinvertedbreveainvertedbreve	Edblgrave	edblgraveEinvertedbreveeinvertedbreve	Idblgrave	idblgraveIinvertedbreveiinvertedbreve	Odblgrave	odblgraveOinvertedbreveoinvertedbreve	Rdblgrave	rdblgraveRinvertedbreverinvertedbreve	Udblgrave	udblgraveUinvertedbreveuinvertedbreveScommaaccentscommaaccentTcommaaccenttcommaaccentYoghyoghHcaronhcaronuni0220uni0226uni0227uni0228uni0229uni022Auni022Buni022Cuni022Duni022Euni022Funi0230uni0231uni0232uni0233dotlessjuni0238uni0239uni023Auni023Buni023Cuni023Duni023Euni0241uni0242uni0243uni0244uni0245uni0246uni0247uni0248uni0249uni024Auni024Buni024Cuni024Duni024Euni024Faturnedascriptascriptturneduni0253oopenuni0256uni0257	ereversedschwa	schwahookeopeneopenreversedeopenreversedhookeopenreversedclosedjdotlessstrokeuni0260gscripthturneduni0266uni0267istroke	iotalatin	Ismallipalmiddletildeuni026Dmturnedmlonglegturnedmhook	nhookleftuni0273	Nsmallipauni0275uni0276philatinrturnedrlonglegturneduni027Brlongleguni027D	rfishhookrfishhookreversed	RsmallipaRsmallinvertedeshdotlessjstrokehookeshsquatreversedtturnedtretroflexhookubarupsilonlatinvturnedwturnedyturned	Ysmallipaezhglottalstopglottalstopreversedglottalstopinverted
+cstretchedbilabialclickeopenclosed	Hsmallipakturned	Lsmallipauni02A0glottalstopstrokeglottalstopstrokereverseduni02A3dezhuni02A6uni02A7uni02A9uni02AAuni02ABuni02ACuni02ADuni02AEuni02AFuni02B0uni02B1uni02B2uni02B3uni02B4uni02B5Rsmallinvertedsuperioruni02B7uni02B8primemoddblprimemodcommaturnedmodapostrophemod	afii64937uni02BEuni02BFuni02C0uni02C1uni02C2uni02C3uni02C4uni02C5uni02C8uni02C9uni02CAuni02CBuni02CCuni02CDuni02CEuni02CFcolontriangularmodcolontriangularhalfmoduni02D2uni02D3uni02D4uni02D5uni02D6uni02D7rhotichookmoduni02DFuni02E0uni02E1uni02E2uni02E3uni02E4tonebarextrahighmodtonebarhighmodtonebarmidmodtonebarlowmodtonebarextralowmoduni02EAuni02EBuni02ECuni02EDuni02EEuni02EFuni02F0uni02F1uni02F2uni02F3uni02F4uni02F5uni02F6uni02F7uni02F8uni02F9uni02FAuni02FBuni02FCuni02FDuni02FEuni02FFgravecmbacutecmbcircumflexcmbtildecmb	macroncmboverlinecmbbrevecmbdotaccentcmbdieresiscmbhookcmbringcmbhungarumlautcmbcaroncmbverticallineabovecmbdblverticallineabovecmbdblgravecmbcandrabinducmbbreveinvertedcmbcommaturnedabovecmbcommaabovecmbcommareversedabovecmbcommaaboverightcmbgravebelowcmbacutebelowcmblefttackbelowcmbrighttackbelowcmbuni031Ahorncmbringhalfleftbelowcmbuptackbelowcmbdowntackbelowcmbplusbelowcmbminusbelowcmbuni0321uni0322dotbelowcmbdieresisbelowcmbringbelowcmbcommaaccent
+cedillacmb	ogonekcmbverticallinebelowcmbuni032Adblarchinvertedbelowcmbcaronbelowcmbcircumflexbelowcmbbrevebelowcmbbreveinvertedbelowcmbtildebelowcmbmacronbelowcmb
+lowlinecmbdbllowlinecmbtildeoverlaycmbstrokeshortoverlaycmbstrokelongoverlaycmbsolidusshortoverlaycmbsoliduslongoverlaycmbringhalfrightbelowcmbuni033Asquarebelowcmbseagullbelowcmbuni033Dtildeverticalcmbdbloverlinecmbgravetonecmbacutetonecmbperispomenigreekcmb
+koroniscmbdialytikatonoscmbypogegrammenigreekcmbuni0346uni0347uni0348uni0349uni034Auni034Buni034Cuni034Duni034Ecombininggraphemejoineruni0350uni0351uni0352uni0353uni0354uni0355uni0356uni0357uni0358uni0359uni035Auni035Buni035Cuni035Duni035Euni035Ftildedoublecmbbreveinverteddoublecmbuni0362uni0363uni0364uni0365uni0366uni0367uni0368uni0369uni036Auni036Buni036Cuni036Duni036Euni036Fnumeralsigngreeknumeralsignlowergreekypogegrammeniuni037Buni037Cuni037Dquestiongreektonosuni0385
+Alphatonos	anoteleiaEpsilontonosEtatonos	IotatonosOmicrontonosUpsilontonos
+OmegatonosiotadieresistonosAlphaBetaGamma
+DeltagreekEpsilonZetaEtaThetaIotaKappaLambdaMuNuXiOmicronPiRhoSigmaTauUpsilonPhiChiPsi
+OmegagreekIotadieresisUpsilondieresis
+alphatonosepsilontonosetatonos	iotatonosupsilondieresistonosalphabetagammadeltaepsilonzetaetathetaiotakappalambdamugreeknuxiomicronrho
+sigmafinalsigmatauupsilonphichipsiomegaiotadieresisupsilondieresisomicrontonosupsilontonos
+omegatonossigmalunatesymbolgreekyotgreekuni03F4uni03F5uni03F6uni03F7uni03F8uni03F9uni03FAuni03FBuni03FCuni03FDuni03FEuni03FFuni0400
+IocyrillicDjecyrillicGjecyrillic	EcyrillicDzecyrillic	Icyrillic
+Yicyrillic
+JecyrillicLjecyrillicNjecyrillicTshecyrillicKjecyrillicuni040DUshortcyrillicDzhecyrillic	Acyrillic
+Becyrillic
+Vecyrillic
+Gecyrillic
+Decyrillic
+IecyrillicZhecyrillic
+Zecyrillic
+IicyrillicIishortcyrillic
+Kacyrillic
+Elcyrillic
+Emcyrillic
+Encyrillic	Ocyrillic
+Pecyrillic
+Ercyrillic
+Escyrillic
+Tecyrillic	Ucyrillic
+EfcyrillicKhacyrillicTsecyrillicChecyrillicShacyrillicShchacyrillicHardsigncyrillicYericyrillicSoftsigncyrillicEreversedcyrillic
+IUcyrillic
+IAcyrillic	acyrillic
+becyrillic
+vecyrillic
+gecyrillic
+decyrillic
+iecyrilliczhecyrillic
+zecyrillic
+iicyrilliciishortcyrillic
+kacyrillic
+elcyrillic
+emcyrillic
+encyrillic	ocyrillic
+pecyrillic
+ercyrillic
+escyrillic
+tecyrillic	ucyrillic
+efcyrillickhacyrillictsecyrillicchecyrillicshacyrillicshchacyrillichardsigncyrillicyericyrillicsoftsigncyrillicereversedcyrillic
+iucyrillic
+iacyrillicuni0450
+iocyrillicdjecyrillicgjecyrillic	ecyrillicdzecyrillic	icyrillic
+yicyrillic
+jecyrillicljecyrillicnjecyrillictshecyrillickjecyrillicuni045DushortcyrillicdzhecyrillicYatcyrillicyatcyrillicEiotifiedcyrilliceiotifiedcyrillicYuslittlecyrillicyuslittlecyrillicYuslittleiotifiedcyrillicyuslittleiotifiedcyrillicYusbigcyrillicyusbigcyrillicYusbigiotifiedcyrillicyusbigiotifiedcyrillicPsicyrillicpsicyrillicFitacyrillicfitacyrillicIzhitsacyrillicizhitsacyrillicIzhitsadblgravecyrillicizhitsadblgravecyrillicuni0478uni0479GheupturncyrillicgheupturncyrillicGhestrokecyrillicghestrokecyrillicZhedescendercyrilliczhedescendercyrillicZedescendercyrilliczedescendercyrillicKadescendercyrillickadescendercyrillicKaverticalstrokecyrillickaverticalstrokecyrillicKabashkircyrillickabashkircyrillicEndescendercyrillicendescendercyrillicEnghecyrillicenghecyrillicEsdescendercyrillicesdescendercyrillicTedescendercyrillictedescendercyrillicUstraightcyrillicustraightcyrillicUstraightstrokecyrillicustraightstrokecyrillicHadescendercyrillichadescendercyrillicTetsecyrillictetsecyrillicChedescendercyrillicchedescendercyrillicCheverticalstrokecyrilliccheverticalstrokecyrillicShhacyrillicshhacyrillicCheabkhasiancyrilliccheabkhasiancyrillicChedescenderabkhasiancyrillicchedescenderabkhasiancyrillicpalochkacyrillicZhebrevecyrilliczhebrevecyrillicEnhookcyrillicenhookcyrillicuni04CFAbrevecyrillicabrevecyrillicAdieresiscyrillicadieresiscyrillicAiecyrillicaiecyrillicIebrevecyrilliciebrevecyrillicSchwacyrillicschwacyrillicSchwadieresiscyrillicschwadieresiscyrillicZhedieresiscyrilliczhedieresiscyrillicZedieresiscyrilliczedieresiscyrillicDzeabkhasiancyrillicdzeabkhasiancyrillicImacroncyrillicimacroncyrillicIdieresiscyrillicidieresiscyrillicOdieresiscyrillicodieresiscyrillicObarredcyrillicobarredcyrillicObarreddieresiscyrillicobarreddieresiscyrillicuni04ECuni04EDUmacroncyrillicumacroncyrillicUdieresiscyrillicudieresiscyrillicUhungarumlautcyrillicuhungarumlautcyrillicChedieresiscyrillicchedieresiscyrillicuni04F6uni04F7Yerudieresiscyrillicyerudieresiscyrillicuni04FEuni04FFuni0500uni0501uni0510uni0511uni0512uni0513uni0E3F.bahtthaiu10D0u10D1u10D2u10D3u10D4u10D5u10D6u10D7u10D8u10D9u10DAu10DBu10DCu10DDu10DEu10DFu10E0u10E1u10E2u10E3u10E4u10E5u10E6u10E7u10E8u10E9u10EAu10EBu10ECu10EDu10EEu10EFu10F0u10F1u10F2u10F3u10F4u10F5u10F6u10FBuni1D01uni1D08uni1D09uni1D0Euni1D11uni1D12uni1D13uni1D14uni1D16uni1D17uni1D18uni1D19uni1D1Auni1D1Duni1D1Euni1D1Funi1D43uni1D44uni1D45uni1D46uni1D47uni1D48uni1D49uni1D4Auni1D4Buni1D4Cuni1D4Duni1D4Euni1D4Funi1D50uni1D51uni1D52uni1D53uni1D54uni1D55uni1D56uni1D57uni1D58uni1D59uni1D5Auni1D5Buni1D5Duni1D5Euni1D5Funi1D61uni1D62uni1D63uni1D64uni1D65uni1D66uni1D67uni1D68uni1D6Auni1D6Buni1D6Cuni1D6Duni1D6Euni1D71uni1D72uni1D73uni1D75uni1D7Auni1DBF.smallthetauni1DC0uni1DC1uni1DC4uni1DC5uni1DC6uni1DC7uni1DC8uni1DC9uni1DCA
+Aringbelow
+aringbelow
+Bdotaccent
+bdotaccent	Bdotbelow	bdotbelow
+Blinebelow
+blinebelowCcedillaacuteccedillaacute
+Ddotaccent
+ddotaccent	Ddotbelow	ddotbelow
+Dlinebelow
+dlinebelowDcedilladcedillaDcircumflexbelowdcircumflexbelowEmacrongraveemacrongraveEmacronacuteemacronacuteEcircumflexbelowecircumflexbelowEtildebelowetildebelowEcedillabreveecedillabreve
+Fdotaccent
+fdotaccentGmacrongmacron
+Hdotaccent
+hdotaccent	Hdotbelow	hdotbelow	Hdieresis	hdieresisHcedillahcedillaHbrevebelowhbrevebelowItildebelowitildebelowIdieresisacuteidieresisacuteKacutekacute	Kdotbelow	kdotbelow
+Klinebelow
+klinebelow	Ldotbelow	ldotbelowLdotbelowmacronldotbelowmacron
+Llinebelow
+llinebelowLcircumflexbelowlcircumflexbelowMacutemacute
+Mdotaccent
+mdotaccent	Mdotbelow	mdotbelow
+Ndotaccent
+ndotaccent	Ndotbelow	ndotbelow
+Nlinebelow
+nlinebelowNcircumflexbelowncircumflexbelowOtildeacuteotildeacuteOtildedieresisotildedieresisOmacrongraveomacrongraveOmacronacuteomacronacutePacutepacute
+Pdotaccent
+pdotaccent
+Rdotaccent
+rdotaccent	Rdotbelow	rdotbelowRdotbelowmacronrdotbelowmacron
+Rlinebelow
+rlinebelow
+Sdotaccent
+sdotaccent	Sdotbelow	sdotbelowSacutedotaccentsacutedotaccentScarondotaccentscarondotaccentSdotbelowdotaccentsdotbelowdotaccent
+Tdotaccent
+tdotaccent	Tdotbelow	tdotbelow
+Tlinebelow
+tlinebelowTcircumflexbelowtcircumflexbelowUdieresisbelowudieresisbelowUtildebelowutildebelowUcircumflexbelowucircumflexbelowUtildeacuteutildeacuteUmacrondieresisumacrondieresisVtildevtilde	Vdotbelow	vdotbelowWgravewgraveWacutewacute	Wdieresis	wdieresis
+Wdotaccent
+wdotaccent	Wdotbelow	wdotbelow
+Xdotaccent
+xdotaccent	Xdieresis	xdieresis
+Ydotaccent
+ydotaccentZcircumflexzcircumflex	Zdotbelow	zdotbelow
+Zlinebelow
+zlinebelow
+hlinebelow	tdieresiswringyringarighthalfringslongdotaccent	Adotbelow	adotbelow
+Ahookabove
+ahookaboveAcircumflexacuteacircumflexacuteAcircumflexgraveacircumflexgraveAcircumflexhookaboveacircumflexhookaboveAcircumflextildeacircumflextildeAcircumflexdotbelowacircumflexdotbelowAbreveacuteabreveacuteAbrevegraveabrevegraveAbrevehookaboveabrevehookaboveAbrevetildeabrevetildeAbrevedotbelowabrevedotbelow	Edotbelow	edotbelow
+Ehookabove
+ehookaboveEtildeetildeEcircumflexacuteecircumflexacuteEcircumflexgraveecircumflexgraveEcircumflexhookaboveecircumflexhookaboveEcircumflextildeecircumflextildeEcircumflexdotbelowecircumflexdotbelow
+Ihookabove
+ihookabove	Idotbelow	idotbelow	Odotbelow	odotbelow
+Ohookabove
+ohookaboveOcircumflexacuteocircumflexacuteOcircumflexgraveocircumflexgraveOcircumflexhookaboveocircumflexhookaboveOcircumflextildeocircumflextildeOcircumflexdotbelowocircumflexdotbelow
+Ohornacute
+ohornacute
+Ohorngrave
+ohorngraveOhornhookaboveohornhookabove
+Ohorntilde
+ohorntildeOhorndotbelowohorndotbelow	Udotbelow	udotbelow
+Uhookabove
+uhookabove
+Uhornacute
+uhornacute
+Uhorngrave
+uhorngraveUhornhookaboveuhornhookabove
+Uhorntilde
+uhorntildeUhorndotbelowuhorndotbelowYgraveygrave	Ydotbelow	ydotbelow
+Yhookabove
+yhookaboveYtildeytildeuni1F00uni1F01uni1F02uni1F03uni1F04uni1F05uni1F06uni1F07uni1F08uni1F09uni1F0Auni1F0Buni1F0Cuni1F0Duni1F0Euni1F0Funi1F10uni1F11uni1F12uni1F13uni1F14uni1F15uni1F18uni1F19uni1F1Auni1F1Buni1F1Cuni1F1Duni1F20uni1F21uni1F22uni1F23uni1F24uni1F25uni1F26uni1F27uni1F28uni1F29uni1F2Auni1F2Buni1F2Cuni1F2Duni1F2Euni1F2Funi1F30uni1F31uni1F32uni1F33uni1F34uni1F35uni1F36uni1F37uni1F38uni1F39uni1F3Auni1F3Buni1F3Cuni1F3Duni1F3Euni1F3Funi1F40uni1F41uni1F42uni1F43uni1F44uni1F45uni1F48uni1F49uni1F4Auni1F4Buni1F4Cuni1F4Duni1F50uni1F51uni1F52uni1F53uni1F54uni1F55uni1F56uni1F57uni1F59uni1F5Buni1F5Duni1F5Funi1F60uni1F61uni1F62uni1F63uni1F64uni1F65uni1F66uni1F67uni1F68uni1F69uni1F6Auni1F6Buni1F6Cuni1F6Duni1F6Euni1F6Funi1F70uni1F71uni1F72uni1F73uni1F74uni1F75uni1F76uni1F77uni1F78uni1F79uni1F7Auni1F7Buni1F7Cuni1F7Duni1F80uni1F81uni1F82uni1F83uni1F84uni1F85uni1F86uni1F87uni1F88uni1F89uni1F8Auni1F8Buni1F8Cuni1F8Duni1F8Euni1F8Funi1F90uni1F91uni1F92uni1F93uni1F94uni1F95uni1F96uni1F97uni1F98uni1F99uni1F9Auni1F9Buni1F9Cuni1F9Duni1F9Euni1F9Funi1FA0uni1FA1uni1FA2uni1FA3uni1FA4uni1FA5uni1FA6uni1FA7uni1FA8uni1FA9uni1FAAuni1FABuni1FACuni1FADuni1FAEuni1FAFuni1FB0uni1FB1uni1FB2uni1FB3uni1FB4uni1FB6uni1FB7uni1FB8uni1FB9uni1FBAuni1FBBuni1FBCuni1FBDuni1FBEuni1FBFuni1FC0uni1FC1uni1FC2uni1FC3uni1FC4uni1FC6uni1FC7uni1FC8uni1FC9uni1FCAuni1FCBuni1FCCuni1FCDuni1FCEuni1FCFuni1FD0uni1FD1uni1FD2uni1FD3uni1FD6uni1FD7uni1FD8uni1FD9uni1FDAuni1FDBuni1FDDuni1FDEuni1FDFuni1FE0uni1FE1uni1FE2uni1FE3uni1FE4uni1FE5uni1FE6uni1FE7uni1FE8uni1FE9uni1FEAuni1FEBuni1FECuni1FEDuni1FEEuni1FEFuni1FF2uni1FF3uni1FF4uni1FF6uni1FF7uni1FF8uni1FF9uni1FFAuni1FFBuni1FFCuni1FFDuni1FFEuni2000uni2001enspaceemspaceuni2004uni2005uni2006uni2007uni2008uni2009uni200Azerowidthspacezerowidthnonjoinerzerowidthjoinerlefttorightmarkrighttoleftmark	hyphentwononbreakinghyphen
+figuredashhorizontalbardblverticalbar
+dbllowlinequoteleftreversedquotedblleftaltoneuni2023onedotleadertwodotleaderuni2027uni2028uni2029uni202Auni202B	afii61573	afii61574	afii61575uni202Funi2031minutesecondprimetripleprimereversedsecondreverseduni2037uni2038referencemark	exclamdblinterrobangoverlineuni203Funi2040caretinsertuni2042uni2043uni2045uni2046uni2047uni2048uni2049
+tironianetreversedpilcrowuni204Cuni204Duni204Euni204Funi2050uni2051uni2052uni2053uni2054uni2055uni2056uni2057uni2058uni2059uni205Auni205Buni205Cuni205Duni205Euni205Funi2060uni2061uni2062uni2063uni206Auni206Buni206Cuni206Duni206Euni206Funi2070uni2071uni2074uni2075uni2076uni2077uni2078uni2079uni207Auni207Buni207Cuni207Duni207Euni207Funi2080uni2081uni2082uni2083uni2084uni2085uni2086uni2087uni2088uni2089uni208Auni208Buni208Cuni208Duni208Euni2090uni2091uni2092uni2093uni2094uni20A0	colonsigncruzeirolirauni20A5uni20A6uni20A7uni20A8wondongEurouni20ADuni20AEuni20B1uni20B2uni20B3Hryvniauni20B5u20B8uni20B9.INDIAN_RUPEE_SIGNu20BAuni2100uni2101uni2102
+centigradeuni2104careofuni2106
+fahrenheituni210Dnumerouni2117uni2119uni211Auni2120uni2121ohminverteduni2129kelvinangstromFturneduni213Auni213Buni2141uni2142uni2143uni2144uni214Buni214Duni214Euni215FOneromanTworoman
+Threeroman	Fourroman	FiveromanSixroman
+Sevenroman
+Eightroman	NineromanTenromanElevenromanTwelveromanuni216Cuni216Duni216Euni216Foneromantworoman
+threeroman	fourroman	fiveromansixroman
+sevenroman
+eightroman	nineromantenromanelevenromantwelveromanuni217Cuni217Duni217Ethousandromanuni2183uni2184gradientuni2210uni23CE.Return-Symboluni2423.spaceopenboxuni2500uni2501uni2502uni2503uni250Cuni250Funi2510uni2513uni2514uni2517uni2518uni251Bblocku25CFuni2639whitesmilingfaceblacksmilingfaceuni266Auni2C60uni2C61uni2C62uni2C63uni2C64uni2C65uni2C66uni2C67uni2C68uni2C69uni2C6Auni2C6Buni2C6Cuni2C75uni2C76uni2E00uni2E01uni2E02uni2E03uni2E04uni2E05uni2E06uni2E07uni2E08uni2E09uni2E0Auni2E0Buni2E0Cuni2E0Duni2E0Euni2E0Funi2E10uni2E11uni2E12uni2E13uni2E14uni2E15uni2E16uni2E17uni2E1Cuni2E1DuniA700uniA701uniA702uniA703uniA704uniA705uniA706uniA707uniA708uniA709uniA70AuniA70BuniA70CuniA70DuniA70EuniA70FuniA710uniA711uniA712uniA713uniA714uniA715uniA716uniA717uniA718uniA719uniA71AuniA720uniA721zero.001one.001two.001	three.001four.001five.001six.001	seven.001	eight.001nine.001uniFFA1.halfwidthhangulkiyeokuniFFA4.halfwidthhangulnieununiFFA7.halfwidthhangultikeutold_notequalold_partialdiffold_summationold_integralold_radicalold_approxequalquotesinglbase.oldquotedblbase.oldGcedillagcedillaKcedillakcedillaLcedillalcedillaNcedillancedillaRcedillarcedillaquotedblleftaltone.oldquoteleftreversed.oldnotequal.mirrorpartialdiff.mirrorsummation.mirrorintegral.mirrorradical.mirrorapproxequal.mirrorE_circumflex_macrone_circumflex_macronE_circumflex_carone_circumflex_caronMgravemgraveRbreverbreveecircumflexmacronecircumflexcaronAmacrongraveamacrongraveaacuteogonekEverticallinebeloweverticallinebelowEverticallinebelowgraveeverticallinebelowgraveEverticallinebelowacuteeverticallinebelowacuteImacrongraveimacrongraveidotaboveacuteOverticallinebelowoverticallinebelowOverticallinebelowgraveoverticallinebelowgraveOverticallinebelowacuteoverticallinebelowacuteSverticallinebelowsverticallinebelowUmacrongraveumacrongrave	xdotbelow
+Uhornbreve
+uhornbrevengtildeaboveuni2124old_uni2140uni2134uni2140.mirroruni2140lambdastrokedotabovealphamacronvariaalphamacronoxiaalphamacronpsilialphamacronpsilivariaalphamacronpsilioxiaalphamacrondasiaalphamacrondasiavariaalphamacrondasiaoxiaalphabrevevariaalphabreveoxiaalphabrevepsilialphabrevepsilivariaalphabrevepsilioxiaalphabrevedasiaalphabrevedasiavariaalphabrevedasiaoxiaiotamacronvariaiotamacronoxiaiotamacrondialytikaoxiaiotamacronpsiliiotamacronpsilivariaiotamacronpsilioxiaiotamacrondasiaiotamacrondasiavariaiotamacrondasiaoxiaiotabrevevariaiotabreveoxiaiotabrevedialytikaoxiaiotabrevepsiliiotabrevepsilivariaiotabrevepsilioxiaiotabrevedasiaiotabrevedasiavariaiotabrevedasiaoxiaupsilonmacronvariaupsilonmacronoxiaupsilonmacrondialytikaoxiaupsilonmacronpsiliupsilonmacronpsilivariaupsilonmacronpsilioxiaupsilonmacrondasiaupsilonmacrondasiavariaupsilonmacrondasiaoxiaupsilonbrevevariaupsilonbreveoxiaupsilonbrevedialytikaoxiaupsilonbrevepsiliupsilonbrevepsilivariaupsilonbrevepsilioxiaupsilonbrevedasiaupsilonbrevedasiavariaupsilonbrevedasiaoxiaAlphamacronvariaAlphamacronoxiaAlphamacronpsiliAlphamacronpsilivariaAlphamacronpsilioxiaAlphamacrondasiaAlphamacrondasiavariaAlphamacrondasiaoxiaAlphabrevevariaAlphabreveoxiaAlphabrevepsiliAlphabrevepsilivariaAlphabrevepsilioxiaAlphabrevedasiaAlphabrevedasiavariaAlphabrevedasiaoxiaIotamacronvariaIotamacronoxiaIotamacrondialytikaoxiaIotamacronpsiliIotamacronpsilivariaIotamacronpsilioxiaIotamacrondasiaIotamacrondasiavariaIotamacrondasiaoxiaIotabrevevariaIotabreveoxiaIotabrevedialytikaoxiaIotabrevepsiliIotabrevepsilivariaIotabrevepsilioxiaIotabrevedasiaIotabrevedasiavariaIotabrevedasiaoxiaUpsilonmacronvariaUpsilonmacronoxiaUpsilonmacrondialytikaoxiaUpsilonmacronpsiliUpsilonmacronpsilivariaUpsilonmacronpsilioxiaUpsilonmacrondasiaUpsilonmacrondasiavariaUpsilonmacrondasiaoxiaUpsilonbrevevariaUpsilonbreveoxiaUpsilonbrevedialytikaoxiaUpsilonbrevepsiliUpsilonbrevepsilivariaUpsilonbrevepsilioxiaUpsilonbrevedasiaUpsilonbrevedasiavariaUpsilonbrevedasiaoxiauni211Duni2115UpsilonpsiliUpsilonpsilivariaUpsilonpsilioxiaAlphamacron
+Alphabreve
+Iotamacron	IotabreveUpsilonmacronUpsilonbreveu1D160quotesinglbase.mirrorquotedblbase.mirrorquoteleftreversed.mirrorquotedblleftaltone.mirror    ;         P ¢       	       !       i       	ù       …       	Ó       2^       	•    	            Å    xè        x-    /  	   †    	   Û  	    	  >)  	  â  	   ß  	  ⁄  	  d¯  	  ë  
+  `    9    Ø    ^ø    K    U    ß    `π    
+c    o        t-    w    Ö    ï    £    ±    ¡    ’    £    l±    Â    Ô  !  ˝  "    *  !  9  ;  >  
+I    U  	  ]    m    }  
+  á ©   1 9 9 0 - 2 0 0 6   A p p l e   C o m p u t e r   I n c .   ©   1 9 8 1   L i n o t y p e   A G   ©   1 9 9 0 - 9 1   T y p e   S o l u t i o n s   I n c .  © 1990-2006 Apple Computer Inc. © 1981 Linotype AG © 1990-91 Type Solutions Inc.  H e l v e t i c a  Helvetica  R e g u l a r  Regular  H e l v e t i c a ;   1 0 . 0 d 4 e 1 ;   2 0 1 5 - 0 4 - 1 6  Helvetica; 10.0d4e1; 2015-04-16  H e l v e t i c a  Helvetica  V e r s i o n   1 0 . 0 d 4 e 1  Version 10.0d4e1  H e l v e t i c a  Helvetica  H e l v e t i c a   i s   a   r e g i s t e r e d   t r a d e m a r k   o f   L i n o t y p e   A G  Helvetica is a registered trademark of Linotype AG  H e l v e t i c a  Helvetica  C o u r a n t   H e l v e t i c a   e s t   u n e   m a r q u e   d È p o s È e   d e   L i n o t y p e   A G   N o r m a l   H e l v e t i c a   i s t   e i n   e i n g e t r a g e n e s   W a r e n z e i c h e n   d e r   L i n o t y p e   A G   R e g o l a r e   H e l v e t i c a   Ë   u n   m a r c h i o   r e g i s t r a t o   d i   L i n o t y p e   A G   R e g u l i e r   H e l v e t i c a   i s   e e n   g e r e g i s t r e e r d   h a n d e l s m e r k   v a n   L i n o t y p e   A G   N o r m a l   H e l v e t i c a   ‰ r   e t t   r e g i s t r e r a t   v a r u m ‰ r k e   f ˆ r   L i n o t y p e   A G   H e l v e t i c a   e s   u n a   m a r c a   r e g i s t r a d a   d e   L i n o t y p e   A G   N o r m a l   H e l v e t i c a   e r   e t   r e g i s t r e r e t   v a r e m Ê r k e   t i l h ¯ r e n d e   L i n o t y p e   A G   N o r m a l  jnñö‘   R e g u l a r  ë¿ª¨   N o r m a a l i  Ë“Ÿ‹   N o r m · l  0Ï0Æ0Â0È0¸  «|ºÃ¥   N o r m a l   R e g u l a r   N o r m a l   N o r m a l  1KG=K9   R e g u l a r n i   R e g u l a r  4   N o r m a l   R e g u l e r  28G09=89   T h Ù n g   t h∞› n g  	(	?	/	.	?	$   B i a s a  ^8âƒOS   R e g u l a r   R e g u l a r  9'/J   R e g u l a r            ™*ï_<ı     ”8    ”8¯e¸'ë˘           ¿ê   ô3  ô3  – f             ‡ ˇP x[        pyrs   ˇß ˛§ =öÕ  üO  /Ω     
+endstream
+endobj
+30 0 obj
+<<
+/Length 303
+/Length1 303
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo <<
+  /Registry (Adobe)
+  /Ordering (UCS)
+  /Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000><ffff>
+endcodespacerangeendcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+endstream
+endobj
+31 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Helvetica
+/FontFile2 29 0 R
+/FontBBox [-951 -481 1446 1122]
+/Flags 32
+/StemV 0
+/ItalicAngle 0
+/Ascent 770
+/Descent -230
+/CapHeight 1469
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/FontDescriptor 31 0 R
+/W []
+/CIDToGIDMap /Identity
+/DW 1000
+/Subtype /CIDFontType2
+/CIDSystemInfo
+<<
+/Supplement 0
+/Registry (Adobe)
+/Ordering (Identity-H)
+>>
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/ToUnicode 30 0 R
+/BaseFont /Helvetica
+/Encoding /Identity-H
+/DescendantFonts [32 0 R]
+>>
+endobj
+34 0 obj
+<<
+/Length 48672
+/Length1 48672
+>>
+stream
+    
+ 0 E pcmap`Kr⁄   ¨  ‹glyfÀﬁ€  à   hloca |à    "Xhmtx—$æA  *H  "Thhea	Üõ  Lú   $maxp	º  L¿    post4yÃ^  L‡  d[namekœx∂  ±<  LheadY˙öÍ  Ωà   6OS/2Ö*F  Ω¿   `              “      ∂  (   (   
+   ~ÄÉÜâíóõ°©±πªı 3>TakmvÅÖäèíòöú§ßou~äå°Œ_myìù•¬»˘?ˆ˚	[_hnsuz¡ õ˘EMWY[]}¥ƒ”€ÔÙ˛ c q é î © Æ µ ∫!!	!!!!"!'!+!2!;!D!K!N!!Ñ""""""+"H"`"e#Œ$#%%%%%%%à% %œ&;&j,l,v..ßß!˜©¯ˇ˚ˇ°ˇ§ˇßˇˇ          †ÇÜâãñöù¶Æµª¿˜&7AVemoxÉáåíîöúû¶©tzÑåé£Úbpêñ†™«œ˛?–˚C]ajquzøƒ †  HPY[]_Ä∂∆÷›Úˆ   j t ê † ´ ± ∏! !	!!!! !&!)!2!:!A!K!M!_!É""""""+"H"`"d#Œ$#% %%%%%%à% %œ&9&j,`,u. .ß ß ˜†¯ˇ˚ˇ°ˇ§ˇßˇˇ   ˇıˇ‰ˇ„ˇ¬ˇ¡ˇøˇΩˇºˇπˇ∑ˇ∂ˇ≤ˇÆˇ´ˇ™ˇ¶ˇ•ˇ†ˇùˇõˇöˇóˇñˇïˇîˇìˇíˇëˇèˇéˇçˇåˇãˇäˇâˇÖˇÅˇ|ˇ{ˇzˇyˇVˇTˇRˇ<ˇ:ˇ8ˇ4ˇ0ˇ*ˇ&ˇıÌÛ]ÛYÁTÁNÁJÁHÁGÁEÁ"Á!Á ÁÁÁÁÊ‘Ê“ÊùÊôÊìÊëÊèÊçÊãÊäÊâÊàÊáÊÖÊÑÊÉÊÅÊÄÊ~Ê}Ê|ÊvÊtÊsÊhÊgÊeÊcÊÊÊÊÊÊÊÊÊÂ˙ÂıÂÔÂÓÂﬁÂ€Â^Â[ÂTÂMÂJÂ>Â"ÂÂ„†„L‚p‚h‚f‚d‚b‚`·Ù·≥·Ø·F·€#€ŸíŸé`¨`ß)‘”531   &                                                                                                                                                                                                                                                                                                        
+                                                                      	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a   Ü á â ã ì ò û £ ¢ § ¶ • ß © ´ ™ ¨ ≠ Ø Æ ∞ ± ≥ µ ¥ ∂ ∏ ∑ º ª Ω æú r d e iû x ° p k- v jk à öh slm g w`ec9i l |" ® ∫ Å c ngNja m }¢ b Ç Ö óèêòôîï π} ¡:¿µ∂‘’ù yñö¨ Ñ å É ç ä è ê ë é ï ñ” î ú ù õ ÛOe qabc zfdP  ö  =¬   >@!  
+	 	™!l<++NÙ<M˝<Nˆ<M˝< ?<˝<?<˝<103!'!ö£∏¸Õ¬˙>∏R˚Æ          h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h   h« ö    9  9  ™ ·À ßs  s 8 /« oÁ c™ Y™  /¨ I9 v™ /9 Ä9ˇês @s és @s 6s 6s 6s @s 4s 6s =™ Ë™ Ë¨ ¨ I¨ „ {Õ «« 4« °« \« úV •„ ú9 U« ö9 Ñs -« °„ ú™ ó« ó9 eV £9 e« £V U„ !« úV /ç V !V #„ 4™ Ä9ˇê™ /¨ ãs  ™ˇŒs ;„ {s G„ ?s /™ „ B„ á9 â9 	s Ç9 ã Ä„ á„ B„ }„ < Çs B™ „ }s 9 s s   !  = j -¨ 9  ™ ·s Es Bs 6sˇÍ= js A™ˇ’Â ˆ (s Ø¨ I™ /Â ™ˇΩ3 ^d I™ ™ ™ vúˇÀsˇ√9 q™ ™ PÏ s  ¨ Z¨ /¨ N„ m« 4« 4« 4« 4« 4« 4  « \V •V •V •V •9ˇŒ9 v9ˇ∂9ˇ’« « ó9 e9 e9 e9 e9 e¨ U9 G« ú« ú« ú« úV #V Ä„ âs ;s ;s ;s ;s ;s ; 8s Gs /s /s /s /9ˇŒ9 v9ˇ∂9ˇ’„ m„ á„ B„ B„ B„ B„ Bd I„ *„ }„ }„ }„ }s „ Äs « 4s ;« 4s ;« 4s ;« \s G« \s G« \s G« \s G« ú  ?« „ ?V •s /V •s /V •s /V •s /V •s /9 U„ B9 U„ B9 U„ B9 U„ B« ö„ á« „ˇÒ\ˇ¸q f 
+\ 9ˇÃ9ˇ…9 9 9 Ñ9 â¨ Ñr âs -{ˇ…« °s Çs Ç„ úq ã„ ú9 ã„ úV ã„ ú) ã„ˇÒ9ˇË« ó„ á« ó„ á« ó„ á„ á« ó„ á9 e„ B9 e„ B9 e„ B  Kç ?« £ Ç« £ Ä« £ 6V Us BV Us BV Us BV Us B„ !™ „ !∏ „ !™ˇ„« ú„ }« ú„ }« ú„ }« ú„ }« ú„ }« ú„ }ç 9 V #s V #„ 4  !„ 4  !„ 4  !™ „ ?V õ„ s« [« V õ„ sû HV § ?ã 5„ s 9 Y + +d 1« „ á9 eí e\ B3 ;V Vs C√ =„ !X úq }3 [„ 4  !Ã 8Ã <h <Â O= •; •î ™ ·	◊ H	 X{ ?v mØ m, ã	D c? hg ]« 4s ;9ˇ∂9ˇ∂9 e„ B« ú„ }« ú„ }« ú„ }« ú„ }« ú„ }s .« 4s ;« 4s ;   8ö 7 :9 U„ B« °s Ç9 e„ B9 e„ B¶ !D "9ˇ∂
+ m	9 h´ ?9 U„ BV £« ó„ á« 4s ;   89 G„ *« 4s 6« 4s ;V •s /V •s /9ˇ9ˇ9ˇ∆9ˇÃ9 e„ B9 e„ B« £ˇ™« £ ^« ú„ \« ú„ }V Us B„ !™ O ¶O ¶« ö„ á« ú« 4s ;V •s /9 e„ B9 e„ B9 e„ B9 e„ BV #s 9 	∞ A¥ B« 4« \s G„ˇÒ„ !„ {„ { :® 9V /V •s /s -9ˇÛò JE I. ;Ñ +" $I ;s :º ;º ;„ ws F+ ?„ ?s 0s . >
+ F
+ Gb DK A™ „ B„ B„ Ü„ áE á 9 â≠ /" q ã Ä Ä Ä„ˇˇ0 á< \„ Bç ?« B Å Å∆ Å Ç Å9 	9 	D xD xˇÿˇÿmˇˆ™ ™ ˛ 5û Ds 9 s ˛ 'h 8„ {„ {„ {) A9 eK A+ ös Å? ú„ <„ {„ {  ?! L € ∞  ãU ãå µ J„ˇ˛„ˇ˛r Dr D è Aè A„ A U : ™ Ø‚ Ø9 â9 Ñ9 Ñ§ o§ or >r >V V V V ™ˇ∂™ˇ∂™™ˇˆ™ Ø™ ™™ˇˆ™ ™ Ø© © § o§ oV %V %V %™ /™ˇ…™ ö™ B™ B™ˇ®™ˇ”O V +9  E9 !9 r >Ã 	√  √  √  Ã 	^ =] =™ˇÔ™ˇˆ  óV V V V ™ {™ ™ ™ ™ˇ·™ Ë™ ø™ ø™ ø™ ø™ $™ $¬   ¸ë  ¸ê  ¸%  ¸  ¸,  ¸,  ¸6  ˝  ¸E  ¸˚  ¸µ  ˚ÿ  ¸%  ˝C  ¸û  ˚ÿ  ¸6  ¸6  ˝  ˝  ˝  ˝  ¸ë  ¸ê  ¸Ç  ¸Ç  ¸Å  ¸+  ˝"  ¸Å  ¸Å  ¸Å  ¸,  ˝&  ˝&  ˝  ¸E  ¸µ  ˝  ¸ù  ¸µ  ˝C  ¸,  ˚#  ¸%  ¸%  ¸6  ¸6  ¸  ¸T  ¸,  ¸,  ¸  ¸,  ¸,  ˚˚  ˚˚  ˝"  ¸,  ¸r  ˚á  ¸á  ˝  ¸,  ¸ë  ¸ê  ¸6  ˝  ¸$  ˝H  ¸,  ¸T  ¸û  ¸˚  ¸V  ¸O  ¸Å  ˙  ¸Ø      ¸i  ˝"  ¸6  ¸á  ¸i  ¸i  ˚O  ˝"  ˛9  ¸G  ¸  ¸^  ˘”  ˘”  ˘e  ˘›  ˘)  ˘”  ˜‹  ¸ê  ¸ç  ˝G  ¸y  ¸ô  ¸î  ¸Ü  ¸ö  ¸  ¸Ò  ¸˜  ¸Ä  ¸Ç™ Ø™ Ø Es Gs Gs G™ Á" å) Õ å9 qÑ å  åS å‘ ^u lB l9ˇ∂« 7« ¢„ ¢« V ¢„ =« ¢9 h^ ì« ¢X - Æ9 ∫„ R9 h« ¢V ¢„ /Â )V '« BV -¨ {9 D^ V 'Â Hs w· ö9 ç· öÂ H’ ws %„ bs wç R· ö· Å9 çs çs 1· ös 1  VÂ `d )„ ös NÂ `  F· ö« Xs « m« ;9ˇÈ· öÂ `· ö« ;s G 9 h , ,V •„ Ä« \™ ó0 óH « \« \« \m ÜV ® † ®« ZV N9 É9ˇœs /  9È èd « ≤ﬂ éV 1« è« )Ω ®« ®† ®Â V ®  d =« è« è« ≤ƒ 9™ è« è9 Z« èV ®« ZÂ V 1¨ =V Â èV Zç è´ è™ /ç ®V ®« Z  èÀ Fs 9„ F≈ èç á )s 5¨   -„ á„ á„ è8 <« á„ áÂ F„ á„ s F  )s ® Fs „ ás ?¨ á™ áV )n á† Ös F™ á„ VÜ 7s 5„ )ç ás Fs D9 èâ )9 P < á„ )„ èÜ ás „ Ö9 ¥V )" ¢· [« 4s 
+ ¢B [¨ { [ä >¶ 3¨ {« m9 ZÂ F« 9· Î /„ 
+¨ e	V B„ ®ç áŸ nVˇ¯ŸˇÔ›ˇ˜O b
+ 3m † j„ †R j1 — #ﬂ ¢Ü |v ¢Ÿ |ﬂ _ ,¯ " (V #V #V #V #mˇ¯ˇ·[ 6C ¨ †z b¨ †◊ b¨ †z bg %¯ %g %¯ %9 ÑŸ  › ﬂ ¢Ü |9 âm )Ü 'm )Ü '   8m ÜÜ 7 ]s 5 ]s 5Ÿ  › O =
+ +Ã 8h 8ﬂ éÜ áﬂ éÜ áU ZÜ PU KÜ 7U KÜ 7ﬂ [ Pm  m  m  ¨ Yz LŸ ¨| uH ®  çmˇ¯ˇ·`   `O b
+ 3Ò "ú ’ ¢¢ :M 8≤ :ó :T :Y :† :û :“ :, :	
+ :Y :~ k‚ :O :ê ?r :< k :‹ :0 :g :x := :Ö :- kó :n :B :™ :? kW :¿ :h :√ :i :	 :c :¸ : º 
+ F9 â< \ ;˛ =0 ;é B„ B„ AD xD xD xÙ Ro 6ı R) *) *] * (x Wx -) !) !ﬁ 2ﬁ 2x /î a) \ [x `x /) 2x /x /x Y‰ x YÉ : [) n T) x F) î a6 \x Y) n T) x m) $ 7, !X   + #s   ò ) ~  ˚Ù  ˚Ù  ˚‡  ˚‡  ˚‡  ˚‡  ˚û  ˚û  ¸Ò« 4s ;« °„ {« °„ {« °„ {« \s G« ú„ ?« ú„ ?« ú„ ?« ú„ ?« ú„ ?V •s /V •s /V •s /V •s /V •s /„ ú™ 9 U„ B« ö„ á« ö„ á« ö„ á« Ç„ f« ö„ á9ˇ®9ˇ†9ˇŸ9ˇÈ« °s Ç« °s Ç« °s Ç„ ú9 ã„ ú9ˇΩ„ ú9ˇΩ„ ú9ˇÆ™ ó Ä™ ó Ä™ ó Ä« ó„ á« ó„ á« ó„ á« ó„ á9 e„ B9 e„ B9 e„ B9 e„ BV £„ }V £„ }« £ Ç« £ Ç« £ Q« £ V Us BV Us BV Us BV Us BV Us B„ !™ „ !™ „ !™ˇ„„ !™ « ú„ }« ú„ }« ú„ }« ú„ }« ú„ }V /s V /s ç 9 ç 9 ç 9 ç 9 ç 9 V !s V !s V #s „ 4  !„ 4  !„ 4  !„ á™ˇ¸9 s s ;™ « 4s ;« 4s ;” 4Ï ;◊ˇË®ˇÖ« 4ç ;« 4s ;« 4s ;« 4s ;« 4s ;« 4s ;« 4s ;« 4s ;V •s /V •s /V •s /u •} /V +¢ˇ¥V •s /V •s /V •s /9 Ñ9 â9 Ñ9 â9 e„ B9 e„ B9 e„ B9 e„ˇ¿9 e„ B9 e„ B9 e„ Bí e\ Bí e\ Bí e\ Bí e\ Bí e\ B« ú„ }« ú„ }X úq }X úq }X úq }X úq }X úq }V #s V #s V #s V #s Â HÂ HÂ HÂ HÂ HÂ HÂ HÂ H) j; jn õ nç j jé pé Hs ws ws ws ws ws w j ≤Ã êƒ öñ ë¿ ï· ö· ö· ö· ö· ö· ö· ö· öé jé j	= j	5 j	 j	1 jéˇûéˇû9 ç9 ç9ˇΩ9ˇ¡9ˇ—9ˇ¡9ˇ”9ˇ”% j% j‘ jÃ jû j» j%ˇû%ˇûÂ `Â `Â `Â `Â `Â `  j  j	Ø j	ß j	y j	£ j· ö· ö· ö· ö· ö· ö· ö· ö jƒ j¿ jíˇû« ;« ;« ;« ;« ;« ;« ;« ;Ï jÏ j	õ j	ì j	e j	è jÏˇûÏˇûÂ HÂ Hs ws w· ö· ö9 Q9 VÂ `Â `· ö· ö« ;« ;Â HÂ HÂ HÂ HÂ HÂ HÂ HÂ Hô jx j
+s j
+| j
+ j
+w j	« f	« f· í· í· í· í· í· í· í· í	« j	« jv jn j@ jj j	«ˇû	«ˇû« ;« ;« ;« ;« ;« ;« ;« ;
+% j
+% j‘ jÃ jû j» j
+%ˇû
+%ˇûÂ HÂ HÂ HÂ HÂ HÂ HÂ H« 7« 7Õ Õ åÿ 7« j∆§« j"ˇ≤"ˇº· í· í· í· ö· íc Ñ å‚   å ¢v j@ j«ˇû9ˇø9ˇ™9ˇ∂9ˇ∂9ˇœ9ˇ…^ˇ“^ˇ¬; -S ån jj j«ˇû· ö· ö· ö· ö„ ö„ ö· ö· öV 'V '• Xó å j) ) " « ;« ;« ;« ;« ;ˆ E+ Ye ô åR 1" å« j9  9  9  9  9  9  9  9  9  9  9                      ™ /™ /™ /sˇ˚  Ò  Ò; •™ˇˆ9 â9 Ñ9 í9 Ö  ã  ó  í  ós Gs GÕ ëT–• Ωe Ω  Ω• Ω                                  b ™ Ø‚ Ø‰ Ø™ Ø‚ Ø‰ Ø™ˇÔ™ ™™ ™} =T ·„ {™ˇˆ¨ ¨ ˜ €≈ ™ /V˛£™ Ä™ Ä	∆ {ç {ç ·˜ {s  s  s  /™ Ë¨  / ¨ } \}‹ Ø} =} ≠™ Ë} =} W™ Ë™ Ë9                                          :   E: 9 9  : 9 9 V %U V %U .U 
+r D:  : G:  9 : 9 9  : 9 9 V %U V %U .U 
+: : r !: : ^ #« X« \s  2 S Äx 9% 2 22 6„ ?Ù DB 3„ !< /9 U« 4 « \s 1m s >¨ E¨ E« \˙ ^® 1¨ C¨ C ^« J  sÂ V £9 e  *é   À% 1% 19 ;« °« 4„ ú9ˇ˛  N9 U„ ú„ úV #« oﬁ .õ s¨ /9 Ñr Ñ´ Ñè ÑV /è /	» / /è ÑV !è !	» !„ ú« \« ú™ ó9 âr â´ â¨ âs ¨ Â  ¨ âs ¨ Â 9 ãs G„ ? Ä« \s Gn $Âˇ˙Âˇ˙ñ ñ ¥ É¨ Idˇ’¥ 1ˇnd d d Gd I¿ " 	 ˇÎ ˇÎ ¥ å ¥ å ˇÈ ˇÈ ¥ å ˇÈ ˇÈ   Ù !’ ±Â Â Â _ G – 6 0∫ )« £s ;™ˇÃ= ö$ á« °s Ç„ 4  !¨ ö% öÏ NÙ N≥ *≤ ” +” < C B ? ? ˇ N$ 
+$ Ï =	Ç N	3 K	3 I NÖ %“ — — z  $ 
+$ G BC GF AC GF WD OF WD O† î  î  î  † ° Wî Wî Wî W° WÈ W› W› W› WÍ Wó ¸ 8¸ ) µ Jµ Js @Q .ì `s 6s 6s 6s @s 4` 6s =R i„ „ Ã 	Ã 	Ã 	d IÙ $¥ˇ˜1 vdˇ’d I9 í  í9 U„ B« és X„ ú9 '« u„ \« í i  ó9 Öd Q ¥ u1ˇ^dˇSd V •s /V •s /™ ó Ä« £ `s /s /« 4s ;s ;V •s /V •s /V •s /9ˇª9ˇ∑9 â9 e„ B9 e„ B9 e„ BV Us B« ú„ }s X úq }	∂ á˘ 4÷ˇ˜„ Ç÷ #÷ 1d 1Â HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ HÂ H9ˇ∂9ˇ∂9ˇµ9ˇ∂9ˇ∂9ˇ∂9ˇ∂9ˇ∂9ˇ∂9ˇæ9ˇæ9ˇµ9ˇæ9ˇº9ˇæ9ˇæ9ˇæ9ˇæ· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· ö· öÕ Õ å) jn jç j; j\ j jÕ Õ å) jn jç j; j\ j jp S åS å% j‘ jû j% jÃ j» jp S åS å% j‘ jû j% jÃ j» j• ó åó å jƒ j¿ j jƒ j¿ j• ó åó å jƒ j¿ j jƒ j¿ j« £™ è jƒ j¿ j« 7« 7^ˇ”^ˇ“V 'V '_ 9 í  í9 Ö  ó   )˛)  ˜‹¸€~               ï   ï z 	 l     f  Ë√         ˇ e                    ï           	 
+                        ! " # $ % & ' ( ) * + , - . / 0 1 2 3 4 5 6 7 8 9 : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a ¨ £ Ñ Ö Ω ñ Ë Ü é ã ù © § ä ⁄ É ì Ú Û ç ó à √ ﬁ Ò û ™ ı Ù ˆ ¢ ≠ … « Æ b c ê d À e »   œ Ã Õ Œ È f ” – — Ø g  ë ÷ ‘ ’ h Î Ì â j i k m l n † o q p r s u t v w Í x z y { } | ∏ °  ~ Ä Å Ï Ó ∫ ˝ ˛	
+ ˇ  ¯ ˘ !"#$%&'()*+ ˙ ◊,-./0123456789: ‚ „;<=>?@ABCDEFGHI ∞ ±JKLMNOPQRS ˚ ¸ ‰ ÂTUVWXYZ[\]^_`abcdefghi ªjklm Ê Ánopqrstuvwxyz ¶{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz ÿ ·{|}~ÄÅÇÉÑÖÜáàâä € ‹ › ‡ Ÿ ﬂãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\ õ]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞± ≤ ≥≤≥¥ ∂ ∑ ƒµ ¥ µ ≈∂ Ç ¬ á∑∏π ´∫ªºΩæø¿¡¬ ∆√ƒ≈∆«»…  æ øÀÃÕŒœ–—“” º‘’÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ ˜ !"#$%&'()*+,-./0123456789:;<=> å ü?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmno ò ®p öq ô Ô • í ú ß è î ïrstuvwxyz{|}~Ä πÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∑∏π∫ªºΩæø¿¡¬√ƒ≈∆«»… ÀÃÕŒœ–—“”‘’ “ ¿ ¡÷◊ÿŸ⁄€‹›ﬁﬂ‡·‚„‰ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙıˆ˜¯˘˙˚¸˝˛ˇ 	
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìî
+softhyphenAmacronamacronAbreveabreveAogonekaogonekCcircumflexccircumflex
+Cdotaccent
+cdotaccentDcarondcaronDcroatEmacronemacronEbreveebreve
+Edotaccent
+edotaccentEogonekeogonekEcaronecaronGcircumflexgcircumflex
+Gdotaccent
+gdotaccentGcommaaccentgcommaaccentHcircumflexhcircumflexHbarhbarItildeitildeImacronimacronIbreveibreveIogonekiogonekIJijJcircumflexjcircumflexKcommaaccentkcommaaccentkgreenlandicLacutelacuteLcommaaccentlcommaaccentLcaronlcaron
+Ldotaccent
+ldotaccentNacutenacuteNcommaaccentncommaaccentNcaronncaronnapostropheEngengOmacronomacronObreveobreveOhungarumlautohungarumlautRacuteracuteRcommaaccentrcommaaccentRcaronrcaronSacutesacuteScircumflexscircumflexTcedillatcedillaTcarontcaronTbartbarUtildeutildeUmacronumacronUbreveubreveUringuringUhungarumlautuhungarumlautUogonekuogonekWcircumflexwcircumflexYcircumflexycircumflexZacutezacute
+Zdotaccent
+zdotaccentslongbstrokeBtopbarbtopbarOopenDafricanDtopbardtopbardeltaturned	EreversedSchwaEopenFhookIotaafricanIstrokelbaruni019B	NhookleftnlegrightlongOcenteredtildeOhornohornyrTonetwotonetwoEshTretroflexhookUhornuhornUpsilonafricanuni01B5uni01B6EzhEzhreversedezhreversed	twostrokeclickdentalclicklateralclickalveolarclickretroflexDZcaronDzcarondzcaronLJLjljNJNjnjAcaronacaronIcaronicaronOcaronocaronUcaronucaronUdieresismacronudieresismacronUdieresisacuteudieresisacuteUdieresiscaronudieresiscaronUdieresisgraveudieresisgraveeturnedAdieresismacronadieresismacron
+Adotmacron
+adotmacronAEmacronaemacronGstrokegstrokeGcarongcaronKcaronkcaronOogonekoogonekOogonekmacronoogonekmacronEzhcaronezhcaronjcaronDZDzdzGacutegacuteWynnNgravengrave
+Aringacute
+aringacuteAEacuteaeacuteOstrokeacuteostrokeacute	Adblgrave	adblgraveAinvertedbreveainvertedbreve	Edblgrave	edblgraveEinvertedbreveeinvertedbreve	Idblgrave	idblgraveIinvertedbreveiinvertedbreve	Odblgrave	odblgraveOinvertedbreveoinvertedbreve	Rdblgrave	rdblgraveRinvertedbreverinvertedbreve	Udblgrave	udblgraveUinvertedbreveuinvertedbreveScommaaccentscommaaccentTcommaaccenttcommaaccentYoghyoghHcaronhcaronuni0220uni0226uni0227uni0228uni0229uni022Auni022Buni022Cuni022Duni022Euni022Funi0230uni0231uni0232uni0233dotlessjuni0238uni0239uni023Auni023Buni023Cuni023Duni023Euni0241uni0242uni0243uni0244uni0245uni0246uni0247uni0248uni0249uni024Auni024Buni024Cuni024Duni024Euni024Faturnedascriptascriptturneduni0253oopenuni0256uni0257	ereversedschwa	schwahookeopeneopenreversedeopenreversedhookeopenreversedclosedjdotlessstrokeuni0260gscripthturneduni0266uni0267istroke	iotalatin	Ismallipalmiddletildeuni026Dmturnedmlonglegturnedmhook	nhookleftuni0273	Nsmallipauni0275uni0276philatinrturnedrlonglegturneduni027Brlongleguni027D	rfishhookrfishhookreversed	RsmallipaRsmallinvertedeshdotlessjstrokehookeshsquatreversedtturnedtretroflexhookubarupsilonlatinvturnedwturnedyturned	Ysmallipaezhglottalstopglottalstopreversedglottalstopinverted
+cstretchedbilabialclickeopenclosed	Hsmallipakturned	Lsmallipauni02A0glottalstopstrokeglottalstopstrokereverseduni02A3dezhuni02A6uni02A7uni02A9uni02AAuni02ABuni02ACuni02ADuni02AEuni02AFuni02B0uni02B1uni02B2uni02B3uni02B4uni02B5Rsmallinvertedsuperioruni02B7uni02B8primemoddblprimemodcommaturnedmodapostrophemod	afii64937uni02BEuni02BFuni02C0uni02C1uni02C2uni02C3uni02C4uni02C5uni02C8uni02C9uni02CAuni02CBuni02CCuni02CDuni02CEuni02CFcolontriangularmodcolontriangularhalfmoduni02D2uni02D3uni02D4uni02D5uni02D6uni02D7rhotichookmoduni02DFuni02E0uni02E1uni02E2uni02E3uni02E4tonebarextrahighmodtonebarhighmodtonebarmidmodtonebarlowmodtonebarextralowmoduni02EAuni02EBuni02ECuni02EDuni02EEuni02EFuni02F0uni02F1uni02F2uni02F3uni02F4uni02F5uni02F6uni02F7uni02F8uni02F9uni02FAuni02FBuni02FCuni02FDuni02FEuni02FFgravecmbacutecmbcircumflexcmbtildecmb	macroncmboverlinecmbbrevecmbdotaccentcmbdieresiscmbhookcmbringcmbhungarumlautcmbcaroncmbverticallineabovecmbdblverticallineabovecmbdblgravecmbcandrabinducmbbreveinvertedcmbcommaturnedabovecmbcommaabovecmbcommareversedabovecmbcommaaboverightcmbgravebelowcmbacutebelowcmblefttackbelowcmbrighttackbelowcmbuni031Ahorncmbringhalfleftbelowcmbuptackbelowcmbdowntackbelowcmbplusbelowcmbminusbelowcmbuni0321uni0322dotbelowcmbdieresisbelowcmbringbelowcmbcommaaccent
+cedillacmb	ogonekcmbverticallinebelowcmbuni032Adblarchinvertedbelowcmbcaronbelowcmbcircumflexbelowcmbbrevebelowcmbbreveinvertedbelowcmbtildebelowcmbmacronbelowcmb
+lowlinecmbdbllowlinecmbtildeoverlaycmbstrokeshortoverlaycmbstrokelongoverlaycmbsolidusshortoverlaycmbsoliduslongoverlaycmbringhalfrightbelowcmbuni033Asquarebelowcmbseagullbelowcmbuni033Dtildeverticalcmbdbloverlinecmbgravetonecmbacutetonecmbperispomenigreekcmb
+koroniscmbdialytikatonoscmbypogegrammenigreekcmbuni0346uni0347uni0348uni0349uni034Auni034Buni034Cuni034Duni034Ecombininggraphemejoineruni0350uni0351uni0352uni0353uni0354uni0355uni0356uni0357uni0358uni0359uni035Auni035Buni035Cuni035Duni035Euni035Ftildedoublecmbbreveinverteddoublecmbuni0362uni0363uni0364uni0365uni0366uni0367uni0368uni0369uni036Auni036Buni036Cuni036Duni036Euni036Fnumeralsigngreeknumeralsignlowergreekypogegrammeniuni037Buni037Cuni037Dquestiongreektonosuni0385
+Alphatonos	anoteleiaEpsilontonosEtatonos	IotatonosOmicrontonosUpsilontonos
+OmegatonosiotadieresistonosAlphaBetaGamma
+DeltagreekEpsilonZetaEtaThetaIotaKappaLambdaMuNuXiOmicronPiRhoSigmaTauUpsilonPhiChiPsi
+OmegagreekIotadieresisUpsilondieresis
+alphatonosepsilontonosetatonos	iotatonosupsilondieresistonosalphabetagammadeltaepsilonzetaetathetaiotakappalambdamugreeknuxiomicronrho
+sigmafinalsigmatauupsilonphichipsiomegaiotadieresisupsilondieresisomicrontonosupsilontonos
+omegatonossigmalunatesymbolgreekyotgreekuni03F4uni03F5uni03F6uni03F7uni03F8uni03F9uni03FAuni03FBuni03FCuni03FDuni03FEuni03FFuni0400
+IocyrillicDjecyrillicGjecyrillic	EcyrillicDzecyrillic	Icyrillic
+Yicyrillic
+JecyrillicLjecyrillicNjecyrillicTshecyrillicKjecyrillicuni040DUshortcyrillicDzhecyrillic	Acyrillic
+Becyrillic
+Vecyrillic
+Gecyrillic
+Decyrillic
+IecyrillicZhecyrillic
+Zecyrillic
+IicyrillicIishortcyrillic
+Kacyrillic
+Elcyrillic
+Emcyrillic
+Encyrillic	Ocyrillic
+Pecyrillic
+Ercyrillic
+Escyrillic
+Tecyrillic	Ucyrillic
+EfcyrillicKhacyrillicTsecyrillicChecyrillicShacyrillicShchacyrillicHardsigncyrillicYericyrillicSoftsigncyrillicEreversedcyrillic
+IUcyrillic
+IAcyrillic	acyrillic
+becyrillic
+vecyrillic
+gecyrillic
+decyrillic
+iecyrilliczhecyrillic
+zecyrillic
+iicyrilliciishortcyrillic
+kacyrillic
+elcyrillic
+emcyrillic
+encyrillic	ocyrillic
+pecyrillic
+ercyrillic
+escyrillic
+tecyrillic	ucyrillic
+efcyrillickhacyrillictsecyrillicchecyrillicshacyrillicshchacyrillichardsigncyrillicyericyrillicsoftsigncyrillicereversedcyrillic
+iucyrillic
+iacyrillicuni0450
+iocyrillicdjecyrillicgjecyrillic	ecyrillicdzecyrillic	icyrillic
+yicyrillic
+jecyrillicljecyrillicnjecyrillictshecyrillickjecyrillicuni045DushortcyrillicdzhecyrillicYatcyrillicyatcyrillicEiotifiedcyrilliceiotifiedcyrillicYuslittlecyrillicyuslittlecyrillicYuslittleiotifiedcyrillicyuslittleiotifiedcyrillicYusbigcyrillicyusbigcyrillicYusbigiotifiedcyrillicyusbigiotifiedcyrillicPsicyrillicpsicyrillicFitacyrillicfitacyrillicIzhitsacyrillicizhitsacyrillicIzhitsadblgravecyrillicizhitsadblgravecyrillicuni0478uni0479GheupturncyrillicgheupturncyrillicGhestrokecyrillicghestrokecyrillicZhedescendercyrilliczhedescendercyrillicZedescendercyrilliczedescendercyrillicKadescendercyrillickadescendercyrillicKaverticalstrokecyrillickaverticalstrokecyrillicKabashkircyrillickabashkircyrillicEndescendercyrillicendescendercyrillicEnghecyrillicenghecyrillicEsdescendercyrillicesdescendercyrillicTedescendercyrillictedescendercyrillicUstraightcyrillicustraightcyrillicUstraightstrokecyrillicustraightstrokecyrillicHadescendercyrillichadescendercyrillicTetsecyrillictetsecyrillicChedescendercyrillicchedescendercyrillicCheverticalstrokecyrilliccheverticalstrokecyrillicShhacyrillicshhacyrillicCheabkhasiancyrilliccheabkhasiancyrillicChedescenderabkhasiancyrillicchedescenderabkhasiancyrillicpalochkacyrillicZhebrevecyrilliczhebrevecyrillicEnhookcyrillicenhookcyrillicuni04CFAbrevecyrillicabrevecyrillicAdieresiscyrillicadieresiscyrillicAiecyrillicaiecyrillicIebrevecyrilliciebrevecyrillicSchwacyrillicschwacyrillicSchwadieresiscyrillicschwadieresiscyrillicZhedieresiscyrilliczhedieresiscyrillicZedieresiscyrilliczedieresiscyrillicDzeabkhasiancyrillicdzeabkhasiancyrillicImacroncyrillicimacroncyrillicIdieresiscyrillicidieresiscyrillicOdieresiscyrillicodieresiscyrillicObarredcyrillicobarredcyrillicObarreddieresiscyrillicobarreddieresiscyrillicuni04ECuni04EDUmacroncyrillicumacroncyrillicUdieresiscyrillicudieresiscyrillicUhungarumlautcyrillicuhungarumlautcyrillicChedieresiscyrillicchedieresiscyrillicuni04F6uni04F7Yerudieresiscyrillicyerudieresiscyrillicuni04FEuni04FFuni0500uni0501uni0510uni0511uni0512uni0513uni0E3F.bahtthaiu10D0u10D1u10D2u10D3u10D4u10D5u10D6u10D7u10D8u10D9u10DAu10DBu10DCu10DDu10DEu10DFu10E0u10E1u10E2u10E3u10E4u10E5u10E6u10E7u10E8u10E9u10EAu10EBu10ECu10EDu10EEu10EFu10F0u10F1u10F2u10F3u10F4u10F5u10F6u10FBuni1D01uni1D08uni1D09uni1D0Euni1D11uni1D12uni1D13uni1D14uni1D16uni1D17uni1D18uni1D19uni1D1Auni1D1Duni1D1Euni1D1Funi1D43uni1D44uni1D45uni1D46uni1D47uni1D48uni1D49uni1D4Auni1D4Buni1D4Cuni1D4Duni1D4Euni1D4Funi1D50uni1D51uni1D52uni1D53uni1D54uni1D55uni1D56uni1D57uni1D58uni1D59uni1D5Auni1D5Buni1D5Duni1D5Euni1D5Funi1D61uni1D62uni1D63uni1D64uni1D65uni1D66uni1D67uni1D68uni1D6Auni1D6Buni1D6Cuni1D6Duni1D6Euni1D71uni1D72uni1D73uni1D75uni1D7Auni1DBF.smallthetauni1DC0uni1DC1uni1DC4uni1DC5uni1DC6uni1DC7uni1DC8uni1DC9uni1DCA
+Aringbelow
+aringbelow
+Bdotaccent
+bdotaccent	Bdotbelow	bdotbelow
+Blinebelow
+blinebelowCcedillaacuteccedillaacute
+Ddotaccent
+ddotaccent	Ddotbelow	ddotbelow
+Dlinebelow
+dlinebelowDcedilladcedillaDcircumflexbelowdcircumflexbelowEmacrongraveemacrongraveEmacronacuteemacronacuteEcircumflexbelowecircumflexbelowEtildebelowetildebelowEcedillabreveecedillabreve
+Fdotaccent
+fdotaccentGmacrongmacron
+Hdotaccent
+hdotaccent	Hdotbelow	hdotbelow	Hdieresis	hdieresisHcedillahcedillaHbrevebelowhbrevebelowItildebelowitildebelowIdieresisacuteidieresisacuteKacutekacute	Kdotbelow	kdotbelow
+Klinebelow
+klinebelow	Ldotbelow	ldotbelowLdotbelowmacronldotbelowmacron
+Llinebelow
+llinebelowLcircumflexbelowlcircumflexbelowMacutemacute
+Mdotaccent
+mdotaccent	Mdotbelow	mdotbelow
+Ndotaccent
+ndotaccent	Ndotbelow	ndotbelow
+Nlinebelow
+nlinebelowNcircumflexbelowncircumflexbelowOtildeacuteotildeacuteOtildedieresisotildedieresisOmacrongraveomacrongraveOmacronacuteomacronacutePacutepacute
+Pdotaccent
+pdotaccent
+Rdotaccent
+rdotaccent	Rdotbelow	rdotbelowRdotbelowmacronrdotbelowmacron
+Rlinebelow
+rlinebelow
+Sdotaccent
+sdotaccent	Sdotbelow	sdotbelowSacutedotaccentsacutedotaccentScarondotaccentscarondotaccentSdotbelowdotaccentsdotbelowdotaccent
+Tdotaccent
+tdotaccent	Tdotbelow	tdotbelow
+Tlinebelow
+tlinebelowTcircumflexbelowtcircumflexbelowUdieresisbelowudieresisbelowUtildebelowutildebelowUcircumflexbelowucircumflexbelowUtildeacuteutildeacuteUmacrondieresisumacrondieresisVtildevtilde	Vdotbelow	vdotbelowWgravewgraveWacutewacute	Wdieresis	wdieresis
+Wdotaccent
+wdotaccent	Wdotbelow	wdotbelow
+Xdotaccent
+xdotaccent	Xdieresis	xdieresis
+Ydotaccent
+ydotaccentZcircumflexzcircumflex	Zdotbelow	zdotbelow
+Zlinebelow
+zlinebelow
+hlinebelow	tdieresiswringyringarighthalfringslongdotaccent	Adotbelow	adotbelow
+Ahookabove
+ahookaboveAcircumflexacuteacircumflexacuteAcircumflexgraveacircumflexgraveAcircumflexhookaboveacircumflexhookaboveAcircumflextildeacircumflextildeAcircumflexdotbelowacircumflexdotbelowAbreveacuteabreveacuteAbrevegraveabrevegraveAbrevehookaboveabrevehookaboveAbrevetildeabrevetildeAbrevedotbelowabrevedotbelow	Edotbelow	edotbelow
+Ehookabove
+ehookaboveEtildeetildeEcircumflexacuteecircumflexacuteEcircumflexgraveecircumflexgraveEcircumflexhookaboveecircumflexhookaboveEcircumflextildeecircumflextildeEcircumflexdotbelowecircumflexdotbelow
+Ihookabove
+ihookabove	Idotbelow	idotbelow	Odotbelow	odotbelow
+Ohookabove
+ohookaboveOcircumflexacuteocircumflexacuteOcircumflexgraveocircumflexgraveOcircumflexhookaboveocircumflexhookaboveOcircumflextildeocircumflextildeOcircumflexdotbelowocircumflexdotbelow
+Ohornacute
+ohornacute
+Ohorngrave
+ohorngraveOhornhookaboveohornhookabove
+Ohorntilde
+ohorntildeOhorndotbelowohorndotbelow	Udotbelow	udotbelow
+Uhookabove
+uhookabove
+Uhornacute
+uhornacute
+Uhorngrave
+uhorngraveUhornhookaboveuhornhookabove
+Uhorntilde
+uhorntildeUhorndotbelowuhorndotbelowYgraveygrave	Ydotbelow	ydotbelow
+Yhookabove
+yhookaboveYtildeytildeuni1F00uni1F01uni1F02uni1F03uni1F04uni1F05uni1F06uni1F07uni1F08uni1F09uni1F0Auni1F0Buni1F0Cuni1F0Duni1F0Euni1F0Funi1F10uni1F11uni1F12uni1F13uni1F14uni1F15uni1F18uni1F19uni1F1Auni1F1Buni1F1Cuni1F1Duni1F20uni1F21uni1F22uni1F23uni1F24uni1F25uni1F26uni1F27uni1F28uni1F29uni1F2Auni1F2Buni1F2Cuni1F2Duni1F2Euni1F2Funi1F30uni1F31uni1F32uni1F33uni1F34uni1F35uni1F36uni1F37uni1F38uni1F39uni1F3Auni1F3Buni1F3Cuni1F3Duni1F3Euni1F3Funi1F40uni1F41uni1F42uni1F43uni1F44uni1F45uni1F48uni1F49uni1F4Auni1F4Buni1F4Cuni1F4Duni1F50uni1F51uni1F52uni1F53uni1F54uni1F55uni1F56uni1F57uni1F59uni1F5Buni1F5Duni1F5Funi1F60uni1F61uni1F62uni1F63uni1F64uni1F65uni1F66uni1F67uni1F68uni1F69uni1F6Auni1F6Buni1F6Cuni1F6Duni1F6Euni1F6Funi1F70uni1F71uni1F72uni1F73uni1F74uni1F75uni1F76uni1F77uni1F78uni1F79uni1F7Auni1F7Buni1F7Cuni1F7Duni1F80uni1F81uni1F82uni1F83uni1F84uni1F85uni1F86uni1F87uni1F88uni1F89uni1F8Auni1F8Buni1F8Cuni1F8Duni1F8Euni1F8Funi1F90uni1F91uni1F92uni1F93uni1F94uni1F95uni1F96uni1F97uni1F98uni1F99uni1F9Auni1F9Buni1F9Cuni1F9Duni1F9Euni1F9Funi1FA0uni1FA1uni1FA2uni1FA3uni1FA4uni1FA5uni1FA6uni1FA7uni1FA8uni1FA9uni1FAAuni1FABuni1FACuni1FADuni1FAEuni1FAFuni1FB0uni1FB1uni1FB2uni1FB3uni1FB4uni1FB6uni1FB7uni1FB8uni1FB9uni1FBAuni1FBBuni1FBCuni1FBDuni1FBEuni1FBFuni1FC0uni1FC1uni1FC2uni1FC3uni1FC4uni1FC6uni1FC7uni1FC8uni1FC9uni1FCAuni1FCBuni1FCCuni1FCDuni1FCEuni1FCFuni1FD0uni1FD1uni1FD2uni1FD3uni1FD6uni1FD7uni1FD8uni1FD9uni1FDAuni1FDBuni1FDDuni1FDEuni1FDFuni1FE0uni1FE1uni1FE2uni1FE3uni1FE4uni1FE5uni1FE6uni1FE7uni1FE8uni1FE9uni1FEAuni1FEBuni1FECuni1FEDuni1FEEuni1FEFuni1FF2uni1FF3uni1FF4uni1FF6uni1FF7uni1FF8uni1FF9uni1FFAuni1FFBuni1FFCuni1FFDuni1FFEuni2000uni2001enspaceemspaceuni2004uni2005uni2006uni2007uni2008uni2009uni200Azerowidthspacezerowidthnonjoinerzerowidthjoinerlefttorightmarkrighttoleftmark	hyphentwononbreakinghyphen
+figuredashhorizontalbardblverticalbar
+dbllowlinequoteleftreversedquotedblleftaltoneuni2023onedotleadertwodotleaderuni2027uni2028uni2029uni202Auni202B	afii61573	afii61574	afii61575uni202Funi2031minutesecondprimetripleprimereversedsecondreverseduni2037uni2038referencemark	exclamdblinterrobangoverlineuni203Funi2040caretinsertuni2042uni2043uni2045uni2046uni2047uni2048uni2049
+tironianetreversedpilcrowuni204Cuni204Duni204Euni204Funi2050uni2051uni2052uni2053uni2054uni2055uni2056uni2057uni2058uni2059uni205Auni205Buni205Cuni205Duni205Euni205Funi2060uni2061uni2062uni2063uni206Auni206Buni206Cuni206Duni206Euni206Funi2070uni2071uni2074uni2075uni2076uni2077uni2078uni2079uni207Auni207Buni207Cuni207Duni207Euni207Funi2080uni2081uni2082uni2083uni2084uni2085uni2086uni2087uni2088uni2089uni208Auni208Buni208Cuni208Duni208Euni2090uni2091uni2092uni2093uni2094uni20A0	colonsigncruzeirolirauni20A5uni20A6uni20A7uni20A8wondongEurouni20ADuni20AEuni20B1uni20B2uni20B3Hryvniauni20B5u20B8uni20B9.INDIAN_RUPEE_SIGNu20BAuni2100uni2101uni2102
+centigradeuni2104careofuni2106
+fahrenheituni210Dnumerouni2117uni2119uni211Auni2120uni2121ohminverteduni2129kelvinangstromFturneduni213Auni213Buni2141uni2142uni2143uni2144uni214Buni214Duni214Euni215FOneromanTworoman
+Threeroman	Fourroman	FiveromanSixroman
+Sevenroman
+Eightroman	NineromanTenromanElevenromanTwelveromanuni216Cuni216Duni216Euni216Foneromantworoman
+threeroman	fourroman	fiveromansixroman
+sevenroman
+eightroman	nineromantenromanelevenromantwelveromanuni217Cuni217Duni217Ethousandromanuni2183uni2184gradientuni2210uni23CE.Return-Symboluni2423.spaceopenboxuni2500uni2501uni2502uni2503uni250Cuni250Funi2510uni2513uni2514uni2517uni2518uni251Bblocku25CFuni2639whitesmilingfaceblacksmilingfaceuni266Auni2C60uni2C61uni2C62uni2C63uni2C64uni2C65uni2C66uni2C67uni2C68uni2C69uni2C6Auni2C6Buni2C6Cuni2C75uni2C76uni2E00uni2E01uni2E02uni2E03uni2E04uni2E05uni2E06uni2E07uni2E08uni2E09uni2E0Auni2E0Buni2E0Cuni2E0Duni2E0Euni2E0Funi2E10uni2E11uni2E12uni2E13uni2E14uni2E15uni2E16uni2E17uni2E1Cuni2E1DuniA700uniA701uniA702uniA703uniA704uniA705uniA706uniA707uniA708uniA709uniA70AuniA70BuniA70CuniA70DuniA70EuniA70FuniA710uniA711uniA712uniA713uniA714uniA715uniA716uniA717uniA718uniA719uniA71AuniA720uniA721zero.001one.001two.001	three.001four.001five.001six.001	seven.001	eight.001nine.001uniFFA1.halfwidthhangulkiyeokuniFFA4.halfwidthhangulnieununiFFA7.halfwidthhangultikeutold_notequalold_partialdiffold_summationold_integralold_radicalold_approxequalquotesinglbase.oldquotedblbase.oldGcedillagcedillaKcedillakcedillaLcedillalcedillaNcedillancedillaRcedillarcedillaquotedblleftaltone.oldquoteleftreversed.oldnotequal.mirrorpartialdiff.mirrorsummation.mirrorintegral.mirrorradical.mirrorapproxequal.mirrorE_circumflex_macrone_circumflex_macronE_circumflex_carone_circumflex_caronMgravemgraveRbreverbreveecircumflexmacronecircumflexcaronAmacrongraveamacrongraveaacuteogonekEverticallinebeloweverticallinebelowEverticallinebelowgraveeverticallinebelowgraveEverticallinebelowacuteeverticallinebelowacuteImacrongraveimacrongraveidotaboveacuteOverticallinebelowoverticallinebelowOverticallinebelowgraveoverticallinebelowgraveOverticallinebelowacuteoverticallinebelowacuteSverticallinebelowsverticallinebelowUmacrongraveumacrongrave	xdotbelow
+Uhornbreve
+uhornbrevengtildeaboveuni2124old_uni2140uni2134uni2140.mirroruni2140lambdastrokedotabovealphamacronvariaalphamacronoxiaalphamacronpsilialphamacronpsilivariaalphamacronpsilioxiaalphamacrondasiaalphamacrondasiavariaalphamacrondasiaoxiaalphabrevevariaalphabreveoxiaalphabrevepsilialphabrevepsilivariaalphabrevepsilioxiaalphabrevedasiaalphabrevedasiavariaalphabrevedasiaoxiaiotamacronvariaiotamacronoxiaiotamacrondialytikaoxiaiotamacronpsiliiotamacronpsilivariaiotamacronpsilioxiaiotamacrondasiaiotamacrondasiavariaiotamacrondasiaoxiaiotabrevevariaiotabreveoxiaiotabrevedialytikaoxiaiotabrevepsiliiotabrevepsilivariaiotabrevepsilioxiaiotabrevedasiaiotabrevedasiavariaiotabrevedasiaoxiaupsilonmacronvariaupsilonmacronoxiaupsilonmacrondialytikaoxiaupsilonmacronpsiliupsilonmacronpsilivariaupsilonmacronpsilioxiaupsilonmacrondasiaupsilonmacrondasiavariaupsilonmacrondasiaoxiaupsilonbrevevariaupsilonbreveoxiaupsilonbrevedialytikaoxiaupsilonbrevepsiliupsilonbrevepsilivariaupsilonbrevepsilioxiaupsilonbrevedasiaupsilonbrevedasiavariaupsilonbrevedasiaoxiaAlphamacronvariaAlphamacronoxiaAlphamacronpsiliAlphamacronpsilivariaAlphamacronpsilioxiaAlphamacrondasiaAlphamacrondasiavariaAlphamacrondasiaoxiaAlphabrevevariaAlphabreveoxiaAlphabrevepsiliAlphabrevepsilivariaAlphabrevepsilioxiaAlphabrevedasiaAlphabrevedasiavariaAlphabrevedasiaoxiaIotamacronvariaIotamacronoxiaIotamacrondialytikaoxiaIotamacronpsiliIotamacronpsilivariaIotamacronpsilioxiaIotamacrondasiaIotamacrondasiavariaIotamacrondasiaoxiaIotabrevevariaIotabreveoxiaIotabrevedialytikaoxiaIotabrevepsiliIotabrevepsilivariaIotabrevepsilioxiaIotabrevedasiaIotabrevedasiavariaIotabrevedasiaoxiaUpsilonmacronvariaUpsilonmacronoxiaUpsilonmacrondialytikaoxiaUpsilonmacronpsiliUpsilonmacronpsilivariaUpsilonmacronpsilioxiaUpsilonmacrondasiaUpsilonmacrondasiavariaUpsilonmacrondasiaoxiaUpsilonbrevevariaUpsilonbreveoxiaUpsilonbrevedialytikaoxiaUpsilonbrevepsiliUpsilonbrevepsilivariaUpsilonbrevepsilioxiaUpsilonbrevedasiaUpsilonbrevedasiavariaUpsilonbrevedasiaoxiauni211Duni2115UpsilonpsiliUpsilonpsilivariaUpsilonpsilioxiaAlphamacron
+Alphabreve
+Iotamacron	IotabreveUpsilonmacronUpsilonbreveu1D160quotesinglbase.mirrorquotedblbase.mirrorquoteleftreversed.mirrorquotedblleftaltone.mirror    GZ        P ¢       	              $j       
+Ø       ‹              2Ä       —    p    ‘    ‰    Í    Z    xb    h    r    xê    Ù  	   †    	   Û  	    	  H   	  è  	   ∫  	  Ì  	  d  	  ≥  
+  "‘  
+  `¯    @     N    ‡    Í    ^    ∞    ∏        
+    &    `F            ®    ∞    tÃ        "    &    ‹    &Ï    
+0    <    J    `    B    J    lf    j    
+r  !  
+~  "  ä  )   é  *  ò  9  
+†  >  
+¨    ∏  	  æ    »    ÿ  
+  ‚ ©   1 9 9 0 - 2 0 0 6   A p p l e   C o m p u t e r   I n c .   ©   1 9 8 1   L i n o t y p e   A G   ©   1 9 9 0 - 9 1   T y p e   S o l u t i o n s   I n c .  © 1990-2006 Apple Computer Inc. © 1981 Linotype AG © 1990-91 Type Solutions Inc.  H e l v e t i c a  Helvetica  B o l d  Bold  H e l v e t i c a   B o l d ;   1 0 . 0 d 4 e 1 ;   2 0 1 5 - 0 4 - 1 6  Helvetica Bold; 10.0d4e1; 2015-04-16  H e l v e t i c a -   ,‚—‘  Helvetica   V e r s i o n   1 0 . 0 d 4 e 1  Version 10.0d4e1  H e l v e t i c a - B o l d  Helvetica-Bold  H e l v e t i c a   i s   a   r e g i s t e r e d   t r a d e m a r k   o f   L i n o t y p e   A G  Helvetica is a registered trademark of Linotype AG  H e l v e t i c a   B o l d  Helvetica Bold  G r a s   H e l v e t i c a   G r a s   H e l v e t i c a   e s t   u n e   m a r q u e   d È p o s È e   d e   L i n o t y p e   A G   F e t t   H e l v e t i c a   F e t t   H e l v e t i c a   i s t   e i n   e i n g e t r a g e n e s   W a r e n z e i c h e n   d e r   L i n o t y p e   A G   G r a s s e t t o   H e l v e t i c a   g r a s s e t t o   H e l v e t i c a   Ë   u n   m a r c h i o   r e g i s t r a t o   d i   L i n o t y p e   A G   V e t   H e l v e t i c a   v e t   H e l v e t i c a   i s   e e n   g e r e g i s t r e e r d   h a n d e l s m e r k   v a n   L i n o t y p e   A G   F e t   H e l v e t i c a   F e t   H e l v e t i c a   ‰ r   e t t   r e g i s t r e r a t   v a r u m ‰ r k e   f ˆ r   L i n o t y p e   A G   H e l v e t i c a   N e g r i t a   H e l v e t i c a   e s   u n a   m a r c a   r e g i s t r a d a   d e   L i n o t y p e   A G   F e d   H e l v e t i c a   e r   e t   r e g i s t r e r e t   v a r e m Ê r k e   t i l h ¯ r e n d e   L i n o t y p e   A G   N e g r i t o   H e l v e t i c a   C a r r e g a d o   F e t   H e l v e t i c a   H a l v f e t   L i h a v a   H e l v e t i c a   l i h a v a   H e l v e t i c a  #3H/   H e l v e t i c a  (1,3*G  ‚—‘   H e l v e t i c a  ‚—‘   N e g r e t a  |óö‘   B o l d  àΩƒøΩ±   F È l k ˆ v È r  0‹0¸0Î0…  º¸¥‹Ã¥   B o l d   A l d i n  8@=K9   P o d e b l j a n i   B o l d  +2   K a l1 n   T e b a l  8@=89  ≠ m  	,	K	2	M	!   T e b a l  |óOS   B o l d   N e g r i t o  91J6   N e g r i t a        ]˝Wˆ_<ı     ”8Ä    ”8Ä˜‹¸'~	F           Úº   ô3  ô3  – f             ‡ ˇP x[        pyrs   ˇß ˛§ =Æ€  üO  B¬     
+endstream
+endobj
+35 0 obj
+<<
+/Length 303
+/Length1 303
+>>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo <<
+  /Registry (Adobe)
+  /Ordering (UCS)
+  /Supplement 0
+>> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000><ffff>
+endcodespacerangeendcmap
+CMapName currentdict /CMap defineresource pop
+end
+end
+endstream
+endobj
+36 0 obj
+<<
+/Type /FontDescriptor
+/FontName /Helvetica
+/FontFile2 34 0 R
+/FontBBox [-1018 -481 1437 1159]
+/Flags 32
+/StemV 0
+/ItalicAngle 0
+/Ascent 770
+/Descent -230
+/CapHeight 1474
+>>
+endobj
+37 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/FontDescriptor 36 0 R
+/W []
+/CIDToGIDMap /Identity
+/DW 1000
+/Subtype /CIDFontType2
+/CIDSystemInfo
+<<
+/Supplement 0
+/Registry (Adobe)
+/Ordering (Identity-H)
+>>
+>>
+endobj
+38 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/ToUnicode 35 0 R
+/BaseFont /Helvetica
+/Encoding /Identity-H
+/DescendantFonts [37 0 R]
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 15 0 R
+/F2 16 0 R
+/F3 17 0 R
+/F4 18 0 R
+/F5 19 0 R
+/F6 20 0 R
+/F7 21 0 R
+/F8 22 0 R
+/F9 23 0 R
+/F10 24 0 R
+/F11 25 0 R
+/F12 26 0 R
+/F13 27 0 R
+/F14 28 0 R
+/F15 33 0 R
+/F16 38 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+39 0 obj
+<<
+/Producer (jsPDF 3.0.4)
+/CreationDate (D:20260727202226+03'00')
+>>
+endobj
+40 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 41
+0000000000 65535 f 
+0000037880 00000 n 
+0000138495 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000005286 00000 n 
+0000005423 00000 n 
+0000013622 00000 n 
+0000013759 00000 n 
+0000020567 00000 n 
+0000020705 00000 n 
+0000027985 00000 n 
+0000028124 00000 n 
+0000035075 00000 n 
+0000035214 00000 n 
+0000037969 00000 n 
+0000038095 00000 n 
+0000038226 00000 n 
+0000038360 00000 n 
+0000038498 00000 n 
+0000038622 00000 n 
+0000038751 00000 n 
+0000038883 00000 n 
+0000039019 00000 n 
+0000039147 00000 n 
+0000039274 00000 n 
+0000039403 00000 n 
+0000039536 00000 n 
+0000039638 00000 n 
+0000039734 00000 n 
+0000087931 00000 n 
+0000088299 00000 n 
+0000088490 00000 n 
+0000088705 00000 n 
+0000088842 00000 n 
+0000137583 00000 n 
+0000137951 00000 n 
+0000138143 00000 n 
+0000138358 00000 n 
+0000138772 00000 n 
+0000138858 00000 n 
+trailer
+<<
+/Size 41
+/Root 40 0 R
+/Info 39 0 R
+/ID [ <75755ECC2328C47C2A49783CD6F6EC4C> <75755ECC2328C47C2A49783CD6F6EC4C> ]
+>>
+startxref
+138962
+%%EOF
